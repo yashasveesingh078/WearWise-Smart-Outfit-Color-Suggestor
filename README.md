@@ -1,4 +1,4 @@
-# WearWise-Smart-Outfit-Color-Suggestor
+# WearWise-Smart Outfit Color Suggestor
 WearWise is a web application that helps users choose better outfit combinations by suggesting matching colors and styles. Users can explore clothing items and get recommendations for suitable combinations.
 
 Features --->
