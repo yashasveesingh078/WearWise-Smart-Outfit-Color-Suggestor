@@ -15,7 +15,7 @@ Technologies --->
 * Fetch API
 
 API used --->
-https://fakestoreapi.com/
+[https://dummyjson.com/products](https://dummyjson.com/products)
 
 Purpose ---->
 The purpose of this project is to build an interactive web application using JavaScript and API integration. It demonstrates the use of array higher-order functions such as filter, sort, and map to manipulate and display data dynamically.
