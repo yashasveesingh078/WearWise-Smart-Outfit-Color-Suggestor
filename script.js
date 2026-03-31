@@ -1,38 +1,40 @@
 const container = document.getElementById("product-container");
 const loading = document.getElementById("loading");
 
-async function getProducts() {
-  try {
-    const res = await fetch("https://dummyjson.com/products?limit=100");
-    const data = await res.json();
+loading.innerText = "Loading data...";
 
-    // Combine API + custom data
-    const allProducts = data.products.concat(customClothes);
+fetch("https://dummyjson.com/products/category/tops")
+  .then((res) => res.json())
+  .then((data) => {
 
-    loading.style.display = "none";
+    // hide loading
+    // loading.style.display = "none";
+    loading.innerText="Data Loaded ✅";
+    for (let i = 0; i < data.products.length; i++) {
+      let item = data.products[i];
 
-    displayProducts(allProducts);
 
-  } catch (error) {
+      const card = document.createElement("div");
+      card.className = "card";
+
+      const img = document.createElement("img");
+      img.src = item.thumbnail;
+
+      const title = document.createElement("h4");
+      title.innerText = item.title;
+
+      const price = document.createElement("p");
+      price.innerText = "₹ " + item.price;
+
+      card.appendChild(img);
+      card.appendChild(title);
+      card.appendChild(price);
+
+      container.appendChild(card);
+    }
+
+  })
+  .catch((err) => {
     loading.innerText = "Failed to load data ❌";
-    console.log(error);
-  }
-}
-
-function displayProducts(products) {
-  let html = "";
-
-  products.forEach(item => {
-    html += `
-      <div class="card">
-        <img src="${item.thumbnail || item.image}">
-        <h3>${item.title}</h3>
-        <p>₹ ${item.price}</p>
-      </div>
-    `;
+    console.log(err);
   });
-
-  container.innerHTML = html;
-}
-
-getProducts();
