@@ -7,68 +7,85 @@ const loading = document.getElementById("loading");
 let data = [];
 
 fetch("./data.json")
-  .then(res => res.json())
-  .then(d => {
+  .then(function(res) {
+    return res.json();
+  })
+  .then(function(d) {
     data = d.products;
     loading.style.display = "none";
-    show(data);
+    display(data);
   });
 
-function show(arr) {
+function display(arr) {
   box.innerHTML = "";
 
-  arr.map(item => {
-    box.innerHTML += `
-      <div class="card">
-        <img src="${item.image || 'https://via.placeholder.com/150'}">
-        <h4>${item.name}</h4>
-        <p>${item.type}</p>
-      </div>
-    `;
+  arr.map(function(item) {
+    box.innerHTML = box.innerHTML + 
+    "<div class='card'>" +
+      "<img src='" + (item.image || "https://via.placeholder.com/150") + "'>" +
+      "<h4>" + item.name + "</h4>" +
+      "<p>" + item.type + "</p>" +
+    "</div>";
   });
 }
 
-search.addEventListener("input", function () {
-  let val = search.value.toLowerCase();
 
-  let res = data.filter(item =>
-    item.name.toLowerCase().includes(val)
-  );
+search.addEventListener("input", function() {
 
-  show(res);
+  let value = search.value.toLowerCase();
+
+  let newData = data.filter(function(item) {
+    return item.name.toLowerCase().includes(value);
+  });
+
+  display(newData);
 });
 
-filter.addEventListener("change", function () {
-  let val = filter.value;
 
-  if (val === "") {
-    show(data);
+filter.addEventListener("change", function() {
+
+  let value = filter.value;
+
+  if (value === "") {
+    display(data);
   } else {
-    let res = data.filter(item => item.type === val);
-    show(res);
+    let newData = data.filter(function(item) {
+      return item.type === value;
+    });
+
+    display(newData);
   }
 });
 
-sort.addEventListener("change", function () {
-  let arr = [...data];
+
+sort.addEventListener("change", function() {
+
+  let newData = [...data];
 
   if (sort.value === "az") {
-    arr.sort((a, b) => {
-      if (a.name > b.name) return 1;
-      if (a.name < b.name) return -1;
-      return 0;
+    newData.sort(function(a, b) {
+      if (a.name > b.name) {
+        return 1;
+      } else if (a.name < b.name) {
+        return -1;
+      } else {
+        return 0;
+      }
     });
   }
 
   if (sort.value === "za") {
-    arr.sort((a, b) => {
-      if (a.name < b.name) return 1;
-      if (a.name > b.name) return -1;
-      return 0;
+    newData.sort(function(a, b) {
+      if (a.name < b.name) {
+        return 1;
+      } else if (a.name > b.name) {
+        return -1;
+      } else {
+        return 0;
+      }
     });
   }
-
-  show(arr);
+  display(newData);
 });
 
   // async function getData(){
