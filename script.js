@@ -2,19 +2,19 @@ const box = document.getElementById("product-container");
 const search = document.getElementById("search");
 const filter = document.getElementById("filter");
 const sort = document.getElementById("sort");
+const loading = document.getElementById("loading");
 
 let data = [];
 
-// fetch
 fetch("./data.json")
   .then(res => res.json())
   .then(d => {
     data = d.products;
-    display(data);
+    loading.style.display = "none";
+    show(data);
   });
 
-// display
-function display(arr) {
+function show(arr) {
   box.innerHTML = "";
 
   arr.map(item => {
@@ -28,7 +28,6 @@ function display(arr) {
   });
 }
 
-// search
 search.addEventListener("input", function () {
   let val = search.value.toLowerCase();
 
@@ -36,32 +35,40 @@ search.addEventListener("input", function () {
     item.name.toLowerCase().includes(val)
   );
 
-  display(res);
+  show(res);
 });
 
-// filter
 filter.addEventListener("change", function () {
   let val = filter.value;
 
   if (val === "") {
-    display(data);
+    show(data);
   } else {
     let res = data.filter(item => item.type === val);
-    display(res);
+    show(res);
   }
 });
 
-// sort
 sort.addEventListener("change", function () {
   let arr = [...data];
 
   if (sort.value === "az") {
-    arr.sort((a, b) => a.name.localeCompare(b.name));
-  } else if (sort.value === "za") {
-    arr.sort((a, b) => b.name.localeCompare(a.name));
+    arr.sort((a, b) => {
+      if (a.name > b.name) return 1;
+      if (a.name < b.name) return -1;
+      return 0;
+    });
   }
 
-  display(arr);
+  if (sort.value === "za") {
+    arr.sort((a, b) => {
+      if (a.name < b.name) return 1;
+      if (a.name > b.name) return -1;
+      return 0;
+    });
+  }
+
+  show(arr);
 });
 
   // async function getData(){
