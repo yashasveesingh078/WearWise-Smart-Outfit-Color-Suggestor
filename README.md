@@ -26,3 +26,6 @@ How to Set Up and Run the Project ---->
 - Open the project folder on your system
 - Open the index.html file in any web browser
 - Ensure you have an active internet connection for API data fetching
+
+
+Initially planned to use public API, but used local JSON data for better control and consistency.

@@ -1,0 +1,148 @@
+{
+  "products": [
+    { "name": "Black T-Shirt", "type": "tshirt", "description": "Comfortable cotton t-shirt", "image": "https://via.placeholder.com/150" },
+    { "name": "White Shirt", "type": "shirt", "description": "Formal white shirt", "image": "https://via.placeholder.com/150" },
+    { "name": "Blue Jeans", "type": "jeans", "description": "Slim fit denim jeans", "image": "https://via.placeholder.com/150" },
+    { "name": "Red Dress", "type": "dress", "description": "Stylish evening dress", "image": "https://via.placeholder.com/150" },
+    { "name": "Black Heels", "type": "heels", "description": "Elegant high heels", "image": "https://via.placeholder.com/150" },
+    { "name": "White Sneakers", "type": "shoes", "description": "Casual sneakers", "image": "https://via.placeholder.com/150" },
+    { "name": "Leather Boots", "type": "boots", "description": "Winter leather boots", "image": "https://via.placeholder.com/150" },
+    { "name": "Handbag Classic", "type": "bag", "description": "Leather handbag", "image": "https://via.placeholder.com/150" },
+    { "name": "Gold Necklace", "type": "jewellery", "description": "Elegant necklace", "image": "https://via.placeholder.com/150" },
+    { "name": "Silver Earrings", "type": "jewellery", "description": "Stylish earrings", "image": "https://via.placeholder.com/150" },
+
+    { "name": "Crop Top", "type": "top", "description": "Trendy crop top", "image": "https://via.placeholder.com/150" },
+    { "name": "Denim Jacket", "type": "jacket", "description": "Classic denim jacket", "image": "https://via.placeholder.com/150" },
+    { "name": "Floral Skirt", "type": "skirt", "description": "Summer skirt", "image": "https://via.placeholder.com/150" },
+    { "name": "Formal Blazer", "type": "blazer", "description": "Office wear blazer", "image": "https://via.placeholder.com/150" },
+    { "name": "Hoodie Grey", "type": "hoodie", "description": "Warm hoodie", "image": "https://via.placeholder.com/150" },
+    { "name": "Sweater Wool", "type": "sweater", "description": "Winter sweater", "image": "https://via.placeholder.com/150" },
+
+    { "name": "Party Dress", "type": "dress", "description": "Party wear dress", "image": "https://via.placeholder.com/150" },
+    { "name": "Casual Shirt Blue", "type": "shirt", "description": "Casual shirt", "image": "https://via.placeholder.com/150" },
+    { "name": "Ripped Jeans", "type": "jeans", "description": "Trendy ripped jeans", "image": "https://via.placeholder.com/150" },
+    { "name": "Tank Top", "type": "top", "description": "Summer tank top", "image": "https://via.placeholder.com/150" },
+
+    { "name": "Leather Bag", "type": "bag", "description": "Premium handbag", "image": "https://via.placeholder.com/150" },
+    { "name": "Clutch Bag", "type": "bag", "description": "Small clutch", "image": "https://via.placeholder.com/150" },
+    { "name": "Sports Shoes", "type": "shoes", "description": "Running shoes", "image": "https://via.placeholder.com/150" },
+    { "name": "Formal Shoes", "type": "shoes", "description": "Office shoes", "image": "https://via.placeholder.com/150" },
+
+    { "name": "Maxi Dress", "type": "dress", "description": "Long maxi dress", "image": "https://via.placeholder.com/150" },
+    { "name": "Mini Skirt", "type": "skirt", "description": "Short skirt", "image": "https://via.placeholder.com/150" },
+    { "name": "Oversized T-Shirt", "type": "tshirt", "description": "Loose fit t-shirt", "image": "https://via.placeholder.com/150" },
+    { "name": "Slim Fit Shirt", "type": "shirt", "description": "Modern fit shirt", "image": "https://via.placeholder.com/150" },
+
+    { "name": "High Heels Red", "type": "heels", "description": "Party heels", "image": "https://via.placeholder.com/150" },
+    { "name": "Ankle Boots", "type": "boots", "description": "Stylish boots", "image": "https://via.placeholder.com/150" },
+    { "name": "Pearl Necklace", "type": "jewellery", "description": "Pearl jewellery", "image": "https://via.placeholder.com/150" },
+    { "name": "Diamond Earrings", "type": "jewellery", "description": "Premium earrings", "image": "https://via.placeholder.com/150" },
+
+    { "name": "Summer Dress Yellow", "type": "dress", "description": "Bright summer dress", "image": "https://via.placeholder.com/150" },
+    { "name": "Casual Hoodie", "type": "hoodie", "description": "Daily wear hoodie", "image": "https://via.placeholder.com/150" },
+    { "name": "Winter Jacket", "type": "jacket", "description": "Warm jacket", "image": "https://via.placeholder.com/150" },
+
+    { "name": "Party Top", "type": "top", "description": "Stylish party top", "image": "https://via.placeholder.com/150" },
+    { "name": "Formal Skirt", "type": "skirt", "description": "Office skirt", "image": "https://via.placeholder.com/150" },
+    { "name": "Leather Belt", "type": "accessory", "description": "Fashion belt", "image": "https://via.placeholder.com/150" },
+    { "name": "Sunglasses", "type": "accessory", "description": "Cool sunglasses", "image": "https://via.placeholder.com/150" },
+
+    { "name": "Black T-Shirt", "type": "tshirt", "description": "Comfortable cotton t-shirt", "image": "" },
+    { "name": "White Shirt", "type": "shirt", "description": "Formal white shirt", "image": "" },
+    { "name": "Blue Jeans", "type": "jeans", "description": "Slim fit denim jeans", "image": "" },
+    { "name": "White Sneakers", "type": "shoes", "description": "Casual sneakers", "image": "" },
+    { "name": "Leather Boots", "type": "boots", "description": "Winter leather boots", "image": "" },
+    { "name": "Denim Jacket", "type": "jacket", "description": "Classic denim jacket", "image": "" },
+    { "name": "Formal Blazer", "type": "blazer", "description": "Office wear blazer", "image": "" },
+    { "name": "Hoodie Grey", "type": "hoodie", "description": "Warm hoodie", "image": "" },
+    { "name": "Sweater Wool", "type": "sweater", "description": "Winter sweater", "image": "" },
+    { "name": "Casual Shirt Blue", "type": "shirt", "description": "Casual shirt", "image": "" },
+    { "name": "Ripped Jeans", "type": "jeans", "description": "Trendy ripped jeans", "image": "" },
+    { "name": "Sports Shoes", "type": "shoes", "description": "Running shoes", "image": "" },
+    { "name": "Formal Shoes", "type": "shoes", "description": "Office shoes", "image": "" },
+    { "name": "Oversized T-Shirt", "type": "tshirt", "description": "Loose fit t-shirt", "image": "" },
+    { "name": "Slim Fit Shirt", "type": "shirt", "description": "Modern fit shirt", "image": "" },
+    { "name": "Casual Hoodie", "type": "hoodie", "description": "Daily wear hoodie", "image": "" },
+    { "name": "Winter Jacket", "type": "jacket", "description": "Warm jacket", "image": "" },
+    { "name": "Leather Belt", "type": "accessory", "description": "Fashion belt", "image": "" },
+    { "name": "Sunglasses", "type": "accessory", "description": "Cool sunglasses", "image": "" },
+
+    { "name": "Red Dress", "type": "dress", "description": "Stylish evening dress", "image": "" },
+    { "name": "Black Heels", "type": "heels", "description": "Elegant high heels", "image": "" },
+    { "name": "Handbag Classic", "type": "bag", "description": "Leather handbag", "image": "" },
+    { "name": "Gold Necklace", "type": "jewellery", "description": "Elegant necklace", "image": "" },
+    { "name": "Silver Earrings", "type": "jewellery", "description": "Stylish earrings", "image": "" },
+    { "name": "Crop Top", "type": "top", "description": "Trendy crop top", "image": "" },
+    { "name": "Floral Skirt", "type": "skirt", "description": "Summer skirt", "image": "" },
+    { "name": "Party Dress", "type": "dress", "description": "Party wear dress", "image": "" },
+    { "name": "Tank Top", "type": "top", "description": "Summer tank top", "image": "" },
+    { "name": "Leather Bag", "type": "bag", "description": "Premium handbag", "image": "" },
+    { "name": "Clutch Bag", "type": "bag", "description": "Small clutch", "image": "" },
+    { "name": "Maxi Dress", "type": "dress", "description": "Long maxi dress", "image": "" },
+    { "name": "Mini Skirt", "type": "skirt", "description": "Short skirt", "image": "" },
+    { "name": "High Heels Red", "type": "heels", "description": "Party heels", "image": "" },
+    { "name": "Pearl Necklace", "type": "jewellery", "description": "Pearl jewellery", "image": "" },
+    { "name": "Diamond Earrings", "type": "jewellery", "description": "Premium earrings", "image": "" },
+    { "name": "Summer Dress Yellow", "type": "dress", "description": "Bright summer dress", "image": "" },
+    { "name": "Party Top", "type": "top", "description": "Stylish party top", "image": "" },
+    { "name": "Formal Skirt", "type": "skirt", "description": "Office skirt", "image": "" },
+
+    
+    { "name": "Graphic T-Shirt", "type": "tshirt", "description": "Printed casual t-shirt", "image": "" },
+    { "name": "V-Neck T-Shirt", "type": "tshirt", "description": "Stylish v-neck tee", "image": "" },
+    { "name": "Striped Shirt", "type": "shirt", "description": "Striped formal shirt", "image": "" },
+    { "name": "Checked Shirt", "type": "shirt", "description": "Casual check shirt", "image": "" },
+    { "name": "Slim Jeans", "type": "jeans", "description": "Slim fit jeans", "image": "" },
+    { "name": "Baggy Jeans", "type": "jeans", "description": "Loose fit jeans", "image": "" },
+  
+    { "name": "Evening Gown", "type": "dress", "description": "Elegant gown", "image": "" },
+    { "name": "Bodycon Dress", "type": "dress", "description": "Fitted dress", "image": "" },
+    { "name": "A-Line Dress", "type": "dress", "description": "Classic dress style", "image": "" },
+ 
+    { "name": "Off Shoulder Top", "type": "top", "description": "Stylish top", "image": "" },
+    { "name": "Peplum Top", "type": "top", "description": "Trendy peplum top", "image": "" },
+    { "name": "Sleeveless Top", "type": "top", "description": "Summer wear", "image": "" },
+ 
+    { "name": "Pleated Skirt", "type": "skirt", "description": "Pleated skirt", "image": "" },
+    { "name": "Denim Skirt", "type": "skirt", "description": "Denim skirt", "image": "" },
+  
+    { "name": "Running Sneakers", "type": "shoes", "description": "Comfortable running shoes", "image": "" },
+    { "name": "Canvas Shoes", "type": "shoes", "description": "Casual canvas shoes", "image": "" },
+    { "name": "Loafers", "type": "shoes", "description": "Slip-on shoes", "image": "" },
+ 
+    { "name": "Stiletto Heels", "type": "heels", "description": "High heels", "image": "" },
+    { "name": "Block Heels", "type": "heels", "description": "Comfort heels", "image": "" },
+  
+    { "name": "Chelsea Boots", "type": "boots", "description": "Classic boots", "image": "" },
+    { "name": "Knee High Boots", "type": "boots", "description": "Long boots", "image": "" },
+ 
+    { "name": "Shoulder Bag", "type": "bag", "description": "Stylish bag", "image": "" },
+    { "name": "Backpack", "type": "bag", "description": "Casual backpack", "image": "" },
+ 
+    { "name": "Choker Necklace", "type": "jewellery", "description": "Trendy choker", "image": "" },
+    { "name": "Stud Earrings", "type": "jewellery", "description": "Minimal earrings", "image": "" },
+ 
+    { "name": "Track Pants", "type": "bottom", "description": "Comfort wear", "image": "" },
+    { "name": "Cargo Pants", "type": "bottom", "description": "Utility pants", "image": "" },
+ 
+    { "name": "Kurti", "type": "ethnic", "description": "Traditional wear", "image": "" },
+    { "name": "Saree", "type": "ethnic", "description": "Elegant saree", "image": "" },
+    {  "name": "Sherwani", "type": "ethnic", "description": "Men traditional wear", "image": "" },
+ 
+    { "name": "Blazer Black", "type": "blazer", "description": "Formal blazer", "image": "" },
+    { "name": "Winter Coat", "type": "jacket", "description": "Heavy coat", "image": "" },
+ 
+    { "name": "Sports Jacket", "type": "jacket", "description": "Active wear", "image": "" },
+    { "name": "Puffer Jacket", "type": "jacket", "description": "Winter wear", "image": "" },
+ 
+    { "name": "Crop Hoodie", "type": "hoodie", "description": "Trendy hoodie", "image": "" },
+    { "name": "Zip Hoodie", "type": "hoodie", "description": "Zip hoodie", "image": "" },
+ 
+    { "name": "Wool Sweater", "type": "sweater", "description": "Warm sweater", "image": "" },
+    { "name": "Cardigan", "type": "sweater", "description": "Layering sweater", "image": "" },
+ 
+    { "name": "Sports Watch", "type": "accessory", "description": "Digital watch", "image": "" },
+    { "name": "Analog Watch", "type": "accessory", "description": "Classic watch", "image": "" }
+ 
+  ]
+}

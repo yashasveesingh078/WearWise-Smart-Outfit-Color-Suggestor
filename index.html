@@ -2,10 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-
-  <!-- 🔥 MOST IMPORTANT (RESPONSIVE FIX) -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
   <title>WearWise</title>
   <link rel="stylesheet" href="style.css">
 </head>
@@ -14,6 +11,27 @@
   <h1>👕 WearWise</h1>
 
   <p id="loading">Loading...</p>
+
+  <!-- controls -->
+  <div class="controls">
+    <input type="text" id="search" placeholder="Search clothes...">
+
+    <select id="filter">
+      <option value="">All</option>
+      <option value="tshirt">T-Shirts</option>
+      <option value="shirt">Shirts</option>
+      <option value="jeans">Jeans</option>
+      <option value="dress">Dresses</option>
+      <option value="top">Tops</option>
+      <option value="skirt">Skirts</option>
+    </select>
+
+    <select id="sort">
+      <option value="">Sort</option>
+      <option value="az">A-Z</option>
+      <option value="za">Z-A</option>
+    </select>
+  </div>
 
   <div id="product-container"></div>
 

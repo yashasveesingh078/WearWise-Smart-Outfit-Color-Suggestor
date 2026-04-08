@@ -1,40 +1,88 @@
-const container = document.getElementById("product-container");
-const loading = document.getElementById("loading");
+const box = document.getElementById("product-container");
+const search = document.getElementById("search");
+const filter = document.getElementById("filter");
+const sort = document.getElementById("sort");
 
-loading.innerText = "Loading data...";
+let data = [];
 
-fetch("https://dummyjson.com/products/category/tops")
-  .then((res) => res.json())
-  .then((data) => {
-
-    // hide loading
-    // loading.style.display = "none";
-    loading.innerText="Data Loaded ✅";
-    for (let i = 0; i < data.products.length; i++) {
-      let item = data.products[i];
-
-
-      const card = document.createElement("div");
-      card.className = "card";
-
-      const img = document.createElement("img");
-      img.src = item.thumbnail;
-
-      const title = document.createElement("h4");
-      title.innerText = item.title;
-
-      const price = document.createElement("p");
-      price.innerText = "₹ " + item.price;
-
-      card.appendChild(img);
-      card.appendChild(title);
-      card.appendChild(price);
-
-      container.appendChild(card);
-    }
-
-  })
-  .catch((err) => {
-    loading.innerText = "Failed to load data ❌";
-    console.log(err);
+// fetch
+fetch("./data.json")
+  .then(res => res.json())
+  .then(d => {
+    data = d.products;
+    display(data);
   });
+
+// display
+function display(arr) {
+  box.innerHTML = "";
+
+  arr.map(item => {
+    box.innerHTML += `
+      <div class="card">
+        <img src="${item.image || 'https://via.placeholder.com/150'}">
+        <h4>${item.name}</h4>
+        <p>${item.type}</p>
+      </div>
+    `;
+  });
+}
+
+// search
+search.addEventListener("input", function () {
+  let val = search.value.toLowerCase();
+
+  let res = data.filter(item =>
+    item.name.toLowerCase().includes(val)
+  );
+
+  display(res);
+});
+
+// filter
+filter.addEventListener("change", function () {
+  let val = filter.value;
+
+  if (val === "") {
+    display(data);
+  } else {
+    let res = data.filter(item => item.type === val);
+    display(res);
+  }
+});
+
+// sort
+sort.addEventListener("change", function () {
+  let arr = [...data];
+
+  if (sort.value === "az") {
+    arr.sort((a, b) => a.name.localeCompare(b.name));
+  } else if (sort.value === "za") {
+    arr.sort((a, b) => b.name.localeCompare(a.name));
+  }
+
+  display(arr);
+});
+
+  // async function getData(){
+  //   // let myData = await fetch("./data.json");
+  //   let myData = await fetch("https://test.api.com/products")
+  //   let products = myData.products
+  // }
+
+
+  // const originalFetch = globalThis.fetch ;
+
+  // globalThis.fetch =  async (url, options) => {
+  //   let data = originalFetch("./data.json")
+  //   return new Promise((res,rej) => {
+  //      if(url === "https://test.api.com/products"){
+  //      res(data.products)
+  //   }
+  //   else if(url == "https://test.api.com/users"){
+  //     res(data.users)
+  //   }
+  //   }
+   
+  // );
+  // }
