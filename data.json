@@ -18,15 +18,15 @@
     { "name": "Hoodie Grey", "type": "hoodie", "description": "Warm hoodie", "image": "https://i5.walmartimages.com/asr/aadee04a-c527-4945-872c-29a22537fb10.6cd452349ca7b9d7b128df6daf9ef76a.jpeg" },
     { "name": "Sweater Wool", "type": "sweater", "description": "Winter sweater", "image": "https://24thspoke.in/cdn/shop/files/1723225434788.jpg?v=1723225463" },
 
-    { "name": "Party Dress", "type": "dress", "description": "Party wear dress", "image": "https://via.placeholder.com/150" },
-    { "name": "Casual Shirt Blue", "type": "shirt", "description": "Casual shirt", "image": "https://via.placeholder.com/150" },
-    { "name": "Ripped Jeans", "type": "jeans", "description": "Trendy ripped jeans", "image": "https://via.placeholder.com/150" },
-    { "name": "Tank Top", "type": "top", "description": "Summer tank top", "image": "https://via.placeholder.com/150" },
+    { "name": "Party Dress", "type": "dress", "description": "Party wear dress", "image": "https://img105.savana.com/goods-pic/176f93b3c3ab49a4b2b38d753b7fd22b_w540_h720_q85.webp" },
+    { "name": "Casual Shirt Blue", "type": "shirt", "description": "Casual shirt", "image": "https://www.atun.in/wp-content/uploads/2023/02/Navy-2-570x760.jpg" },
+    { "name": "Ripped Jeans", "type": "jeans", "description": "Trendy ripped jeans", "image": "https://m.media-amazon.com/images/I/51vFXmMrZ2L._AC_UY1100_.jpg" },
+    { "name": "Tank Top", "type": "top", "description": "Summer tank top", "image": "https://littleboxindia.com/cdn/shop/files/Set_Of_3_-_Slim-Fit_Ribbed_Women_Tank_Tops.jpg?v=1741077251" },
 
-    { "name": "Leather Bag", "type": "bag", "description": "Premium handbag", "image": "https://via.placeholder.com/150" },
-    { "name": "Clutch Bag", "type": "bag", "description": "Small clutch", "image": "https://via.placeholder.com/150" },
-    { "name": "Sports Shoes", "type": "shoes", "description": "Running shoes", "image": "https://via.placeholder.com/150" },
-    { "name": "Formal Shoes", "type": "shoes", "description": "Office shoes", "image": "https://via.placeholder.com/150" },
+    { "name": "Leather Bag", "type": "bag", "description": "Premium handbag", "image": "https://assets.myntassets.com/w_360,q_50,,dpr_2,fl_progressive,f_webp/assets/images/2026/MARCH/10/brZyYIln_6bd8cfe9f2374a9a8fcf6bd1719bc175.jpg" },
+    { "name": "Clutch Bag", "type": "bag", "description": "Small clutch", "image": "https://saumyasstores.com/cdn/shop/files/41ciaeQBXCL.jpg?v=1750593891&width=1445" },
+    { "name": "Sports Shoes", "type": "shoes", "description": "Running shoes", "image": "https://redtape.com/cdn/shop/files/RLO1686_1.jpg?v=1767423417&width=1500" },
+    { "name": "Formal Shoes", "type": "shoes", "description": "Office shoes", "image": "https://img.kwcdn.com/product/fancy/87d2111b-8c76-4056-a761-51717325227d.jpg" },
 
     { "name": "Maxi Dress", "type": "dress", "description": "Long maxi dress", "image": "https://via.placeholder.com/150" },
     { "name": "Mini Skirt", "type": "skirt", "description": "Short skirt", "image": "https://via.placeholder.com/150" },
