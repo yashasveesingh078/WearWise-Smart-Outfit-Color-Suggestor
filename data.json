@@ -28,17 +28,17 @@
     { "name": "Sports Shoes", "type": "shoes", "description": "Running shoes", "image": "https://redtape.com/cdn/shop/files/RLO1686_1.jpg?v=1767423417&width=1500" },
     { "name": "Formal Shoes", "type": "shoes", "description": "Office shoes", "image": "https://img.kwcdn.com/product/fancy/87d2111b-8c76-4056-a761-51717325227d.jpg" },
 
-    { "name": "Maxi Dress", "type": "dress", "description": "Long maxi dress", "image": "https://via.placeholder.com/150" },
-    { "name": "Mini Skirt", "type": "skirt", "description": "Short skirt", "image": "https://via.placeholder.com/150" },
-    { "name": "Oversized T-Shirt", "type": "tshirt", "description": "Loose fit t-shirt", "image": "https://via.placeholder.com/150" },
-    { "name": "Slim Fit Shirt", "type": "shirt", "description": "Modern fit shirt", "image": "https://via.placeholder.com/150" },
+    { "name": "Maxi Dress", "type": "dress", "description": "Long maxi dress", "image": "https://www.vastranand.in/cdn/shop/files/1_bc4cce67-0c92-4034-b34b-644c1cd9ea66.jpg?v=1743074442" },
+    { "name": "Mini Skirt", "type": "skirt", "description": "Short skirt", "image": "https://assets.myntassets.com/h_1440,q_75,w_1080/v1/assets/images/27191514/2024/3/4/f3218ea1-d057-4dc9-90f4-84f46847bed11709549580665-NEUDIS-Flared-Mini-Skater-Skirt-1771709549580253-2.jpg" },
+    { "name": "Oversized T-Shirt", "type": "tshirt", "description": "Loose fit t-shirt", "image": "https://images.meesho.com/images/products/377357453/wicin_512.webp?width=512" },
+    { "name": "Slim Fit Shirt", "type": "shirt", "description": "Modern fit shirt", "image": "https://5.imimg.com/data5/ECOM/Default/2022/9/KT/FT/OK/149571855/red-2d915cf9-da0b-42c9-b2a7-5721de8265d6-500x500.jpg" },
 
-    { "name": "High Heels Red", "type": "heels", "description": "Party heels", "image": "https://via.placeholder.com/150" },
-    { "name": "Ankle Boots", "type": "boots", "description": "Stylish boots", "image": "https://via.placeholder.com/150" },
-    { "name": "Pearl Necklace", "type": "jewellery", "description": "Pearl jewellery", "image": "https://via.placeholder.com/150" },
-    { "name": "Diamond Earrings", "type": "jewellery", "description": "Premium earrings", "image": "https://via.placeholder.com/150" },
+    { "name": "High Heels", "type": "heels", "description": "Party heels", "image": "https://5.imimg.com/data5/SELLER/Default/2022/2/UV/BT/WC/148003554/stiletto-high-heel-shoes-500x500.jpg" },
+    { "name": "Ankle Boots", "type": "boots", "description": "Stylish boots", "image": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/128685s.jpg?im=Resize,width=750" },
+    { "name": "Pearl Necklace", "type": "jewellery", "description": "Pearl jewellery", "image": "https://rudradhan.com/cdn/shop/files/buy-pearl-necklace-set-online-real-freshwater-pearls-rudradhan.jpg?v=1757080479&width=2048" },
+    { "name": "Diamond Earrings", "type": "jewellery", "description": "Premium earrings", "image": "https://images.unsplash.com/photo-1693212793204-bcea856c75fe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDd8fHxlbnwwfHx8fHw%3D&fm=jpg&q=60&w=3000" },
 
-    { "name": "Summer Dress Yellow", "type": "dress", "description": "Bright summer dress", "image": "https://via.placeholder.com/150" },
+    { "name": "Summer Dress Yellow", "type": "dress", "description": "Bright summer dress", "image": "https://mynomad.in/cdn/shop/files/WhatsAppImage2025-03-10at8.43.03PM_1.jpg?v=1741620470&width=900" },
     { "name": "Casual Hoodie", "type": "hoodie", "description": "Daily wear hoodie", "image": "https://via.placeholder.com/150" },
     { "name": "Winter Jacket", "type": "jacket", "description": "Warm jacket", "image": "https://via.placeholder.com/150" },
 
