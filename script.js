@@ -4,12 +4,10 @@ const filter = document.getElementById("filter");
 const sort = document.getElementById("sort");
 const themeBtn = document.getElementById("theme-toggle");
 
-
 const modal = document.getElementById("modal");
 const closeBtn = document.getElementById("close");
 
 let data = [];
-
 
 fetch("data.json")
   .then(res => res.json())
@@ -17,7 +15,6 @@ fetch("data.json")
     data = d.products;
     displayData(data);
   });
-
 
 function displayData(items) {
   container.innerHTML = "";
@@ -39,35 +36,22 @@ function displayData(items) {
   });
 }
 
-
 function applyFilters() {
   let filtered = [...data];
 
-  const searchValue = searchInput.value
-    .toLowerCase()
-    .trim()
-    .replace(/\s+/g, ""); 
-
+  const searchValue = searchInput.value.toLowerCase().trim();
 
   if (searchValue !== "") {
-    filtered = filtered.filter(item => {
-      const name = item.name.toLowerCase().replace(/\s+/g, "");
-      const desc = item.description.toLowerCase().replace(/\s+/g, "");
-      const type = item.type.toLowerCase().replace(/\s+/g, "");
-
-      return (
-        name.includes(searchValue) ||
-        desc.includes(searchValue) ||
-        type.includes(searchValue)
-      );
-    });
+    filtered = filtered.filter(item =>
+      item.name.toLowerCase().includes(searchValue) ||
+      item.description.toLowerCase().includes(searchValue) ||
+      item.type.toLowerCase().includes(searchValue)
+    );
   }
-
 
   if (filter.value !== "all") {
     filtered = filtered.filter(item => item.type === filter.value);
   }
-
 
   if (sort.value === "low") {
     filtered.sort((a, b) => a.price - b.price);
@@ -81,7 +65,6 @@ function applyFilters() {
 
   displayData(filtered);
 }
-
 
 searchInput.addEventListener("input", applyFilters);
 filter.addEventListener("change", applyFilters);
@@ -98,13 +81,11 @@ function viewItem(i) {
   modal.style.display = "block";
 }
 
-
 closeBtn.onclick = () => modal.style.display = "none";
 
 window.onclick = (e) => {
   if (e.target === modal) modal.style.display = "none";
 };
-
 
 themeBtn.addEventListener("click", () => {
   document.body.classList.toggle("dark");

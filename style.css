@@ -7,7 +7,6 @@ body {
 h1 {
   text-align: center;
 }
-
 body.dark {
   background: #121212;
   color: white;
@@ -16,7 +15,6 @@ body.dark {
 body.dark .card {
   background: #1e1e1e;
 }
-
 
 .controls {
   display: flex;
@@ -30,13 +28,11 @@ input, select {
   padding: 10px;
 }
 
-
 #product-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
   gap: 20px;
 }
-
 
 .card {
   background: white;
@@ -57,13 +53,11 @@ input, select {
   object-fit: cover;
 }
 
-
 .card-content {
   padding: 10px;
 }
 
 .card h3 {
-  font-size: 16px;
   margin: 5px 0;
 }
 
@@ -71,7 +65,6 @@ input, select {
   font-weight: bold;
 }
 
-/* View Button */
 .view-btn {
   position: absolute;
   top: 10px;
@@ -88,7 +81,7 @@ input, select {
   display: block;
 }
 
-
+/* Modal */
 .modal {
   display: none;
   position: fixed;
