@@ -1,31 +1,71 @@
-# WearWise-Smart Outfit Color Suggestor
-WearWise is a web application that helps users choose better outfit combinations by suggesting matching colors and styles. Users can explore clothing items and get recommendations for suitable combinations.
+# WearWise - Smart Outfit Color Suggestor
+WearWise is a web application that helps users explore clothing items and discover better outfit choices. It provides a clean and interactive interface to search, filter, and sort products efficiently.
 
-Features --->
-* Search clothing items
-* Suggest matching outfit combinations
-* Filter by category
-* Sort by price or name
-* Display product details
+---
 
-Technologies --->
-* HTML
-* CSS
-* JavaScript
-* Fetch API
+# Features
+- Search: Find products using keywords (name, description, or category)
+- Filter: Filter items based on category/type
+- Sort: Sort products by price or name (ascending/descending)
+- View Details: Hover to preview product details in a modal popup
+- Dark Mode: Toggle between light and dark themes
 
-API used --->
-[https://dummyjson.com/products](https://dummyjson.com/products)
+---
 
-Purpose ---->
-The purpose of this project is to build an interactive web application using JavaScript and API integration. It demonstrates the use of array higher-order functions such as filter, sort, and map to manipulate and display data dynamically.
-This project also aims to provide a practical solution for users by helping them choose better outfit combinations based on simple color and style matching logic.
+# Search
+- Users can search products using keywords
+- Works across:
+  - Product name
+  - Description
+  - Category/type
+- Supports partial and flexible matching
 
-How to Set Up and Run the Project ---->
-- Clone the GitHub repository
-- Open the project folder on your system
-- Open the index.html file in any web browser
-- Ensure you have an active internet connection for API data fetching
+---
 
+# Filtering
+- Filter products based on category (type)
+- Examples: T-shirt, Dress, Shoes, Jewellery, etc.
 
-Initially planned to use public API, but used local JSON data for better control and consistency.
+---
+
+# Sorting
+- Sort products by:
+  - Price (Low → High / High → Low)
+  - Name (A → Z / Z → A)
+
+---
+
+# View Product
+- Hover on a product card to see the view icon
+- Opens a modal with:
+  - Image
+  - Name
+  - Description
+  - Price
+
+---
+
+# 🌙 Dark Mode
+- Toggle between light and dark theme
+- Improves user experience
+
+---
+
+# Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Fetch API (for local JSON)
+
+---
+
+# Data Source
+- Uses a local `data.json` file
+- Contains product data in array format
+- Each object includes:
+  - name
+  - type
+  - description
+  - image
+  - price
+

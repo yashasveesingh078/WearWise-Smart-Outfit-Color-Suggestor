@@ -8,31 +8,42 @@
 </head>
 <body>
 
-  <h1>👕 WearWise</h1>
+  <h1>WearWise - Smart Outfit Suggestor</h1>
 
-  <p id="loading">Loading data...</p>
+  <button id="theme-toggle">🌙 Toggle Theme</button>
+
 
   <div class="controls">
-    <input type="text" id="search" placeholder="Search clothes...">
+    <input type="text" id="search" placeholder="Search outfits..." />
 
     <select id="filter">
-      <option value="">All</option>
-      <option value="tshirt">T-Shirts</option>
-      <option value="shirt">Shirts</option>
+      <option value="all">All</option>
+      <option value="tshirt">T-Shirt</option>
+      <option value="shirt">Shirt</option>
+      <option value="dress">Dress</option>
       <option value="jeans">Jeans</option>
-      <option value="dress">Dresses</option>
-      <option value="top">Tops</option>
-      <option value="skirt">Skirts</option>
+      <option value="shoes">Shoes</option>
+      <option value="jewellery">Jewellery</option>
     </select>
 
     <select id="sort">
-      <option value="">Sort</option>
-      <option value="az">A-Z</option>
-      <option value="za">Z-A</option>
+      <option value="default">Sort</option>
+      <option value="low">Price Low → High</option>
+      <option value="high">Price High → Low</option>
+      <option value="az">Name A → Z</option>
+      <option value="za">Name Z → A</option>
     </select>
   </div>
-
   <div id="product-container"></div>
+  <div id="modal" class="modal">
+    <div class="modal-content">
+      <span id="close">&times;</span>
+      <img id="modal-img">
+      <h2 id="modal-title"></h2>
+      <p id="modal-desc"></p>
+      <p id="modal-price"></p>
+    </div>
+  </div>
 
   <script src="script.js"></script>
 </body>

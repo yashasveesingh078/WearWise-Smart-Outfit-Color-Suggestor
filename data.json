@@ -1,107 +1,1257 @@
 {
   "products": [
-    { "name": "Black T-Shirt", "type": "tshirt", "description": "Comfortable cotton t-shirt", "image": "https://images.meesho.com/images/products/261322223/hv5be_512.webp?width=512" },
-    { "name": "White Shirt", "type": "shirt", "description": "Formal white shirt", "image": "https://idk.co.in/cdn/shop/files/IDK-_2219.jpg?v=1711444119" },
-    { "name": "Blue Jeans", "type": "jeans", "description": "Wide leg denim jeans", "image": "https://sassafras.in/cdn/shop/files/SFJEAN0592-1_fbd456eb-0dfb-400c-abb2-07e09c80679c.jpg?v=1757493219" },
-    { "name": "Red Dress", "type": "dress", "description": "Stylish evening dress", "image": "https://littleboxindia.com/cdn/shop/files/Solid_Cup_Detail_Cami_Dress_In_Red.png?v=1751026757" },
-    { "name": "Black Heels", "type": "heels", "description": "Elegant high heels", "image": "https://shopgnist.com/cdn/shop/files/GN-T-540-Black_1_1080x1080.jpg?v=1714326076" },
-    { "name": "White Sneakers", "type": "shoes", "description": "Casual sneakers", "image": "https://images-static.nykaa.com/media/catalog/product/4/d/4dfd8b2JM-25-White_1.jpg?tr=w-500" },
-    { "name": "Leather Boots", "type": "boots", "description": "Winter leather boots", "image": "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/2026/JANUARY/19/ML3NGxeO_7efe5aa1a9b14926aab9629c7c1dbb17.jpg" },
-    { "name": "Handbag Classic", "type": "bag", "description": "Leather handbag", "image": "https://zouk.co.in/cdn/shop/files/Classic_Handbag_3_cc2f3f65-ff31-4a2f-ac67-515346def12f.jpg?crop=center&height=1200&v=1724831163&width=1200" },
-    { "name": "Gold Necklace", "type": "jewellery", "description": "Elegant necklace", "image": "https://static.cilory.com/807464-thickbox_default/little-heart--gold-pendant-with-chain.jpg.webp" },
-    { "name": "Golden Earrings", "type": "jewellery", "description": "Stylish earrings", "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw677f6639/images/hi-res/511069SOEAGA00_1.jpg?sw=480&sh=480" },
-
-    { "name": "Crop Top", "type": "top", "description": "Trendy crop top", "image": "https://images.meesho.com/images/products/473061497/bb5p3_512.webp?width=512" },
-    { "name": "Denim Jacket", "type": "jacket", "description": "Classic denim jacket", "image": "https://www.veromoda.in/cdn/shop/files/221069201_g.jpg?v=1745691784&width=2048" },
-    { "name": "Floral Skirt", "type": "skirt", "description": "Summer skirt", "image": "https://boogzelclothing.com/cdn/shop/files/Cottage-Calling-Floral-Skirt-Boogzel-Clothing-3_800x.jpg?v=1693095724" },
-    { "name": "Formal Blazer", "type": "blazer", "description": "Office wear blazer", "image": "https://i.pinimg.com/474x/9c/6a/86/9c6a86ec5eda4576b0d6f093421adb72.jpg" },
-    { "name": "Hoodie Grey", "type": "hoodie", "description": "Warm hoodie", "image": "https://i5.walmartimages.com/asr/aadee04a-c527-4945-872c-29a22537fb10.6cd452349ca7b9d7b128df6daf9ef76a.jpeg" },
-    { "name": "Sweater Wool", "type": "sweater", "description": "Winter sweater", "image": "https://24thspoke.in/cdn/shop/files/1723225434788.jpg?v=1723225463" },
-
-    { "name": "Party Dress", "type": "dress", "description": "Party wear dress", "image": "https://img105.savana.com/goods-pic/176f93b3c3ab49a4b2b38d753b7fd22b_w540_h720_q85.webp" },
-    { "name": "Casual Shirt Blue", "type": "shirt", "description": "Casual shirt", "image": "https://www.atun.in/wp-content/uploads/2023/02/Navy-2-570x760.jpg" },
-    { "name": "Ripped Jeans", "type": "jeans", "description": "Trendy ripped jeans", "image": "https://m.media-amazon.com/images/I/51vFXmMrZ2L._AC_UY1100_.jpg" },
-    { "name": "Tank Top", "type": "top", "description": "Summer tank top", "image": "https://littleboxindia.com/cdn/shop/files/Set_Of_3_-_Slim-Fit_Ribbed_Women_Tank_Tops.jpg?v=1741077251" },
-
-    { "name": "Leather Bag", "type": "bag", "description": "Premium handbag", "image": "https://assets.myntassets.com/w_360,q_50,,dpr_2,fl_progressive,f_webp/assets/images/2026/MARCH/10/brZyYIln_6bd8cfe9f2374a9a8fcf6bd1719bc175.jpg" },
-    { "name": "Clutch Bag", "type": "bag", "description": "Small clutch", "image": "https://saumyasstores.com/cdn/shop/files/41ciaeQBXCL.jpg?v=1750593891&width=1445" },
-    { "name": "Sports Shoes", "type": "shoes", "description": "Running shoes", "image": "https://redtape.com/cdn/shop/files/RLO1686_1.jpg?v=1767423417&width=1500" },
-    { "name": "Formal Shoes", "type": "shoes", "description": "Office shoes", "image": "https://img.kwcdn.com/product/fancy/87d2111b-8c76-4056-a761-51717325227d.jpg" },
-
-    { "name": "Maxi Dress", "type": "dress", "description": "Long maxi dress", "image": "https://www.vastranand.in/cdn/shop/files/1_bc4cce67-0c92-4034-b34b-644c1cd9ea66.jpg?v=1743074442" },
-    { "name": "Mini Skirt", "type": "skirt", "description": "Short skirt", "image": "https://assets.myntassets.com/h_1440,q_75,w_1080/v1/assets/images/27191514/2024/3/4/f3218ea1-d057-4dc9-90f4-84f46847bed11709549580665-NEUDIS-Flared-Mini-Skater-Skirt-1771709549580253-2.jpg" },
-    { "name": "Oversized T-Shirt", "type": "tshirt", "description": "Loose fit t-shirt", "image": "https://images.meesho.com/images/products/377357453/wicin_512.webp?width=512" },
-    { "name": "Slim Fit Shirt", "type": "shirt", "description": "Modern fit shirt", "image": "https://5.imimg.com/data5/ECOM/Default/2022/9/KT/FT/OK/149571855/red-2d915cf9-da0b-42c9-b2a7-5721de8265d6-500x500.jpg" },
-
-    { "name": "High Heels", "type": "heels", "description": "Party heels", "image": "https://5.imimg.com/data5/SELLER/Default/2022/2/UV/BT/WC/148003554/stiletto-high-heel-shoes-500x500.jpg" },
-    { "name": "Ankle Boots", "type": "boots", "description": "Stylish boots", "image": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/128685s.jpg?im=Resize,width=750" },
-    { "name": "Pearl Necklace", "type": "jewellery", "description": "Pearl jewellery", "image": "https://rudradhan.com/cdn/shop/files/buy-pearl-necklace-set-online-real-freshwater-pearls-rudradhan.jpg?v=1757080479&width=2048" },
-    { "name": "Diamond Earrings", "type": "jewellery", "description": "Premium earrings", "image": "https://images.unsplash.com/photo-1693212793204-bcea856c75fe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDd8fHxlbnwwfHx8fHw%3D&fm=jpg&q=60&w=3000" },
-
-    { "name": "Summer Dress Yellow", "type": "dress", "description": "Bright summer dress", "image": "https://mynomad.in/cdn/shop/files/WhatsAppImage2025-03-10at8.43.03PM_1.jpg?v=1741620470&width=900" },
-    { "name": "Casual Hoodie", "type": "hoodie", "description": "Daily wear hoodie", "image": "https://www.rockit.co.in/cdn/shop/files/2240102624-2-36_5.jpg?v=1723448029" },
-    { "name": "Winter Jacket", "type": "jacket", "description": "Warm jacket", "image": "https://img105.savana.com/goods-pic/dc4c584331f74cd9ae689b7e654f25a6_w540_h720_q85.webp" },
-
-    { "name": "Party Top", "type": "top", "description": "Stylish party top", "image": "https://www.missmosa.in/cdn/shop/files/1688_image_share_d30e10d918bce242e1cfa2f9f6cef79f.jpg?v=1762420831&width=500" },
-    { "name": "Formal Skirt", "type": "skirt", "description": "Office skirt", "image": "https://www.berrylush.com/cdn/shop/files/1_d3226e2d-d02b-429f-8f40-f7315ef71755.jpg?v=1770890350&width=1946" },
-    { "name": "Leather Belt", "type": "accessory", "description": "Fashion belt", "image": "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/8/u1Tj91Uh_6fed57bc59f64b18abe657f233b373ac.jpg" },
-    { "name": "Sunglasses", "type": "accessory", "description": "Cool sunglasses", "image": "https://img.drz.lazcdn.com/static/bd/p/6cdf78d05a5382d0b661a1b2e82b6326.jpg_720x720q80.jpg" },
-
-    { "name": "Graphic T-Shirt", "type": "tshirt", "description": "Printed casual t-shirt", "image": "https://www.altart.in/cdn/shop/files/BackModel.png?v=1751894140" },
-    { "name": "V-Neck T-Shirt", "type": "tshirt", "description": "Stylish v-neck tee", "image": "https://lovedky.com/cdn/shop/files/mustard-plain-v-neck-oversized-t-shirt-dky-mutdvos-mustard-xs-1228172770.webp?v=1775287988&width=2048" },
-    { "name": "Striped Shirt", "type": "shirt", "description": "Striped formal shirt", "image": "https://www.shopstyleash.com/cdn/shop/files/F701520A-DDA2-4C53-97BA-DD2286755E00.jpg?v=1709108247&width=1445" },
-    { "name": "Checked Shirt", "type": "shirt", "description": "Casual check shirt", "image": "https://m.media-amazon.com/images/I/81NI+l9+EaL._AC_UY1100_.jpg" },
-    { "name": "Slim Jeans", "type": "jeans", "description": "Slim fit jeans", "image": "https://offduty.in/cdn/shop/files/17544818433dfad64feea1502cd9dccd605f74d49a.jpg?v=1768285053" },
-    { "name": "Baggy Jeans", "type": "jeans", "description": "Loose fit jeans", "image": "https://offduty.in/cdn/shop/files/1_5ffc3985-23e2-47d5-a30a-5b0a6135def1_1_1.png?v=1763719684" },
-  
-    { "name": "Evening Gown", "type": "dress", "description": "Elegant gown", "image": "https://www.dollygown.com/cdn/shop/products/942.jpg?v=1697612792" },
-    { "name": "Bodycon Dress", "type": "dress", "description": "Fitted dress", "image": "https://rocketzone.in/cdn/shop/files/8991B5A5-EC8B-4962-9D4B-3126ABB1F7CF.jpg?v=1751618614" },
-    { "name": "A-Line Dress", "type": "dress", "description": "Classic dress style", "image": "https://littleboxindia.com/cdn/shop/files/Summer_Elegant_Solid_Color_Puff_Sleeve_Cinch_Waist_Black_Dress.jpg?v=1774517445" },
- 
-    { "name": "Off Shoulder Top", "type": "top", "description": "Stylish top", "image": "https://littleboxindia.com/cdn/shop/files/Party_Off_Shoulder_Ruched_Flared_Full_Sleeve_Top_in_Green_2.png?v=1769791044" },
-    { "name": "Peplum Top", "type": "top", "description": "Trendy peplum top", "image": "https://babli.in/cdn/shop/files/CreamyPinkPeplumWrapTop_1.jpg?v=1707424391&width=2048" },
-    { "name": "Sleeveless Top", "type": "top", "description": "Summer wear", "image": "https://nolabels.in/cdn/shop/files/DSC04096.jpg?v=1718969039&width=1080" },
- 
-    { "name": "Pleated Skirt", "type": "skirt", "description": "Pleated skirt", "image": "https://littleboxindia.com/cdn/shop/products/A-Line_Pleated_High_Waisted_Summer_Skirt_in_Chocolate_Brown_1080x.jpg?v=1769682121" },
-    { "name": "Denim Skirt", "type": "skirt", "description": "Denim skirt", "image": "https://images-cdn.ubuy.co.in/635f0bf972909071562d92d4-tangnade-womens-retro-button-irregular.jpg" },
-  
-    { "name": "Running Sneakers", "type": "shoes", "description": "Comfortable running shoes", "image": "https://www.campusshoes.com/cdn/shop/files/SIREN_MAUVE-PINK_0_85aefd65-cdf7-4894-846f-0b88f3eb6381.jpg?v=1757593424" },
-    { "name": "Canvas Shoes", "type": "shoes", "description": "Casual canvas shoes", "image": "https://theater.xyz/cdn/shop/files/1_7755e87d-5190-459a-becf-ba8aba0fa520.jpg?v=1768547803&width=1646" },
-    { "name": "Loafers", "type": "shoes", "description": "Slip-on shoes", "image": "https://www.cheaney.co.uk/blog/wp-content/uploads/2024/05/Cora2_POS-700x990.jpg" },
- 
-    { "name": "Stiletto Heels", "type": "heels", "description": "High heels", "image": "https://5.imimg.com/data5/SELLER/Default/2022/2/UV/BT/WC/148003554/stiletto-high-heel-shoes-500x500.jpg" },
-    { "name": "Block Heels", "type": "heels", "description": "Comfort heels", "image": "https://i.etsystatic.com/12751469/r/il/1d8a61/4912049424/il_570xN.4912049424_5w7r.jpg" },
-  
-    { "name": "Chelsea Boots", "type": "boots", "description": "Classic boots", "image": "https://assets.myntassets.com/w_360,q_50,,dpr_2,fl_progressive,f_webp/assets/images/26080484/2023/11/27/0e3be959-b2c9-42f7-9b91-0bead477d9be1701096520449Boots7.jpg" },
-    { "name": "Knee High Boots", "type": "boots", "description": "Long boots", "image": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/Q49041s.jpg?im=Resize,width=750" },
- 
-    { "name": "Shoulder Bag", "type": "bag", "description": "Stylish bag", "image": "https://assets.ajio.com/medias/sys_master/root/20240422/duAa/6626929e16fd2c6e6ac62cb6/-473Wx593H-467255863-brown-MODEL.jpg" },
-    { "name": "Backpack", "type": "bag", "description": "Casual backpack", "image": "https://m.media-amazon.com/images/I/61UJlAt8DTL._AC_UY1100_.jpg" },
- 
-    { "name": "Choker Necklace", "type": "jewellery", "description": "Trendy choker", "image": "https://images.meesho.com/images/products/296496620/jg5uj_512.webp?width=512" },
-    { "name": "Stud Earrings", "type": "jewellery", "description": "Minimal earrings", "image": "https://www.glamaya.com/wp-content/uploads/2025/01/glamaya-8472fac6-436f-4f60-85c0-9e8e6967a481.webp" },
- 
-    { "name": "Track Pants", "type": "bottom", "description": "Comfort wear", "image": "https://www.rockit.co.in/cdn/shop/products/2230101384-1-36_2.jpg?v=1705303412" },
-    { "name": "Cargo Pants", "type": "bottom", "description": "Utility pants", "image": "https://assets.ajio.com/medias/sys_master/root/20240930/BJ7B/66fac5fe260f9c41e845eca9/-473Wx593H-700518539-black-MODEL.jpg" },
- 
-    { "name": "Kurti", "type": "ethnic", "description": "Traditional wear", "image": "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/2025/OCTOBER/27/tu9LEjVA_6ad82e61b1ca4010865e7168dbb9725b.jpg" },
-    { "name": "Saree", "type": "ethnic", "description": "Elegant saree", "image": "https://imagescdn.jaypore.com/img/app/product/3/39591525-11569242.jpg?w=500&auto=format" },
-    {  "name": "Suit", "type": "ethnic", "description": "Traditional wear", "image": "https://idaho-o.com/cdn/shop/files/1774372514208_a941da6a-c9be-43b8-8584-7981fdd4ab6d.jpg?v=1774441229&width=533" },
- 
-    { "name": "Blazer Black", "type": "blazer", "description": "Formal blazer", "image": "https://img1.theiconic.com.au/mJ8xb__W8HBvwnkgNJz9XYXGOEw=/fit-in/406x512/filters:fill(ffffff):quality(90):format(webp)/https%3A%2F%2Fstatic.theiconic.com.au%2Fp%2Fatmos-here-2516-378898-1.jpg" },
-    { "name": "Winter Coat", "type": "jacket", "description": "Heavy coat", "image": "https://i.pinimg.com/736x/b7/0f/7a/b70f7a61c64e015dc8b75e1ab476f495.jpg" },
- 
-    { "name": "Sports Jacket", "type": "jacket", "description": "Active wear", "image": "https://fitkin.in/cdn/shop/files/1_98d56395-4615-44d2-b708-3b058c7988a0.jpg?v=1750417624" },
-    { "name": "Puffer Jacket", "type": "jacket", "description": "Winter wear", "image": "https://m.media-amazon.com/images/I/712rKoyDWLL._AC_SL1500_.jpg" },
- 
-    { "name": "Crop Hoodie", "type": "hoodie", "description": "Trendy hoodie", "image": "https://assets.ajio.com/medias/sys_master/root/20241023/jme9/6718fed6f9b8ef490bd83b44/-473Wx593H-469707813-jetblack-MODEL.jpg" },
-    { "name": "Zip Hoodie", "type": "hoodie", "description": "Zip hoodie", "image": "https://m.media-amazon.com/images/I/81GkAEE9upL._AC_UY1100_.jpg" },
- 
-    { "name": "Wool Sweater", "type": "sweater", "description": "Warm sweater", "image": "https://www.missmosa.in/cdn/shop/files/9A33CCFB-0CF2-488E-AA04-5323D4C069E2.jpg?v=1749205682&width=500" },
-    { "name": "Cardigan", "type": "sweater", "description": "Layering sweater", "image": "https://i.etsystatic.com/28289072/r/il/ee1231/4309804782/il_570xN.4309804782_gktr.jpg" },
- 
-    { "name": "Watch", "type": "accessory", "description": "Digital watch", "image": "https://funkytradition.com/cdn/shop/files/classic-stainless-steel-square-digital-watch-for-men-and-women-funkytradition-990435.jpg?v=1723520263" },
-    { "name": "Analog Watch", "type": "accessory", "description": "Classic watch", "image": "https://scontent.fixc8-2.fna.fbcdn.net/v/t39.30808-6/489425925_1091980216299851_5922047471842822335_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=N0f_frkSg8wQ7kNvwHBcrvX&_nc_oc=AdpqsmvJHHCfm8bAZ1988YCuB5SqEDO8bV5FEBit3BCOh5_mI_q2YBTi1qGdH7osSMucxdvMfXxPe4njVqPhzqdV&_nc_zt=23&_nc_ht=scontent.fixc8-2.fna&_nc_gid=AwmI5rPZMIWhFMFEcD63YA&_nc_ss=7a389&oh=00_Af1YyxsgbnNKhmuAra7cEbU0K5YpOidlRiAQo4iRfffPhg&oe=69DFB2E1" }
- 
+    {
+      "name": "Black T-Shirt",
+      "type": "tshirt",
+      "description": "Comfortable cotton t-shirt",
+      "image": "https://images.meesho.com/images/products/261322223/hv5be_512.webp?width=512",
+      "price": 1244
+    },
+    {
+      "name": "White Shirt",
+      "type": "shirt",
+      "description": "Formal white shirt",
+      "image": "https://idk.co.in/cdn/shop/files/IDK-_2219.jpg?v=1711444119",
+      "price": 2164
+    },
+    {
+      "name": "Blue Jeans",
+      "type": "jeans",
+      "description": "Wide leg denim jeans",
+      "image": "https://sassafras.in/cdn/shop/files/SFJEAN0592-1_fbd456eb-0dfb-400c-abb2-07e09c80679c.jpg?v=1757493219",
+      "price": 1540
+    },
+    {
+      "name": "Red Dress",
+      "type": "dress",
+      "description": "Stylish evening dress",
+      "image": "https://littleboxindia.com/cdn/shop/files/Solid_Cup_Detail_Cami_Dress_In_Red.png?v=1751026757",
+      "price": 862
+    },
+    {
+      "name": "Black Heels",
+      "type": "heels",
+      "description": "Elegant high heels",
+      "image": "https://shopgnist.com/cdn/shop/files/GN-T-540-Black_1_1080x1080.jpg?v=1714326076",
+      "price": 1840
+    },
+    {
+      "name": "White Sneakers",
+      "type": "shoes",
+      "description": "Casual sneakers",
+      "image": "https://images-static.nykaa.com/media/catalog/product/4/d/4dfd8b2JM-25-White_1.jpg?tr=w-500",
+      "price": 1073
+    },
+    {
+      "name": "Leather Boots",
+      "type": "boots",
+      "description": "Winter leather boots",
+      "image": "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/2026/JANUARY/19/ML3NGxeO_7efe5aa1a9b14926aab9629c7c1dbb17.jpg",
+      "price": 2196
+    },
+    {
+      "name": "Handbag Classic",
+      "type": "bag",
+      "description": "Leather handbag",
+      "image": "https://zouk.co.in/cdn/shop/files/Classic_Handbag_3_cc2f3f65-ff31-4a2f-ac67-515346def12f.jpg?crop=center&height=1200&v=1724831163&width=1200",
+      "price": 937
+    },
+    {
+      "name": "Gold Necklace",
+      "type": "jewellery",
+      "description": "Elegant necklace",
+      "image": "https://static.cilory.com/807464-thickbox_default/little-heart--gold-pendant-with-chain.jpg.webp",
+      "price": 1536
+    },
+    {
+      "name": "Hair Claw Clip",
+      "type": "accessory",
+      "description": "Trendy claw clip",
+      "image": "https://palay.in/cdn/shop/files/71HosvqjTvL.jpg?v=1765960306",
+      "price": 1278
+    },
+    {
+      "name": "Silk Scarf",
+      "type": "accessory",
+      "description": "Elegant silk scarf",
+      "image": "https://brownliving.in/cdn/shop/files/pure-silk-scarf-handcrafted-eco-dyed-with-sappanwood-madder-cr-scarf-001-kokikar-1208511.webp?v=1760556667",
+      "price": 286
+    },
+    {
+      "name": "Waist Belt Women",
+      "type": "accessory",
+      "description": "Stylish waist belt",
+      "image": "https://palay.in/cdn/shop/files/51OvxVsptjL_69ed67ae-4006-4651-af0e-1df92c973bc0.jpg?v=1763586914",
+      "price": 1341
+    },
+    {
+      "name": "Fashion Hairband",
+      "type": "accessory",
+      "description": "Decorative hairband",
+      "image": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/hair-accessory/q/t/8/stylish-headband-for-womens-and-girls-1-a14770-57-head-band-original-imahysbg4qc3y5ht.jpeg?q=70",
+      "price": 1952
+    },
+    {
+      "name": "Golden Earrings",
+      "type": "jewellery",
+      "description": "Stylish earrings",
+      "image": "https://blingbag.co.in/cdn/shop/products/GreyMayuJhumkiEarring.jpg?v=1753937822&width=720",
+      "price": 1518
+    },
+    {
+      "name": "Crop Top",
+      "type": "top",
+      "description": "Trendy crop top",
+      "image": "https://images.meesho.com/images/products/473061497/bb5p3_512.webp?width=512",
+      "price": 970
+    },
+    {
+      "name": "Denim Jacket",
+      "type": "jacket",
+      "description": "Classic denim jacket",
+      "image": "https://www.veromoda.in/cdn/shop/files/221069201_g.jpg?v=1745691784&width=2048",
+      "price": 1413
+    },
+    {
+      "name": "Floral Skirt",
+      "type": "skirt",
+      "description": "Summer skirt",
+      "image": "https://boogzelclothing.com/cdn/shop/files/Cottage-Calling-Floral-Skirt-Boogzel-Clothing-3_800x.jpg?v=1693095724",
+      "price": 1694
+    },
+    {
+      "name": "Formal Blazer",
+      "type": "blazer",
+      "description": "Office wear blazer",
+      "image": "https://i.pinimg.com/474x/9c/6a/86/9c6a86ec5eda4576b0d6f093421adb72.jpg",
+      "price": 1089
+    },
+    {
+      "name": "Hoodie Grey",
+      "type": "hoodie",
+      "description": "Warm hoodie",
+      "image": "https://i5.walmartimages.com/asr/aadee04a-c527-4945-872c-29a22537fb10.6cd452349ca7b9d7b128df6daf9ef76a.jpeg",
+      "price": 2082
+    },
+    {
+      "name": "Sweater Wool",
+      "type": "sweater",
+      "description": "Winter sweater",
+      "image": "https://24thspoke.in/cdn/shop/files/1723225434788.jpg?v=1723225463",
+      "price": 487
+    },
+    {
+      "name": "Party Dress",
+      "type": "dress",
+      "description": "Party wear dress",
+      "image": "https://img105.savana.com/goods-pic/176f93b3c3ab49a4b2b38d753b7fd22b_w540_h720_q85.webp",
+      "price": 945
+    },
+    {
+      "name": "Casual Shirt Blue",
+      "type": "shirt",
+      "description": "Casual shirt",
+      "image": "https://www.atun.in/wp-content/uploads/2023/02/Navy-2-570x760.jpg",
+      "price": 1823
+    },
+    {
+      "name": "Ripped Jeans",
+      "type": "jeans",
+      "description": "Trendy ripped jeans",
+      "image": "https://m.media-amazon.com/images/I/51vFXmMrZ2L._AC_UY1100_.jpg",
+      "price": 1137
+    },
+    {
+      "name": "Tank Top",
+      "type": "top",
+      "description": "Summer tank top",
+      "image": "https://littleboxindia.com/cdn/shop/files/Set_Of_3_-_Slim-Fit_Ribbed_Women_Tank_Tops.jpg?v=1741077251",
+      "price": 212
+    },
+    {
+      "name": "Leather Bag",
+      "type": "bag",
+      "description": "Premium handbag",
+      "image": "https://assets.myntassets.com/w_360,q_50,,dpr_2,fl_progressive,f_webp/assets/images/2026/MARCH/10/brZyYIln_6bd8cfe9f2374a9a8fcf6bd1719bc175.jpg",
+      "price": 1120
+    },
+    {
+      "name": "Clutch Bag",
+      "type": "bag",
+      "description": "Small clutch",
+      "image": "https://saumyasstores.com/cdn/shop/files/41ciaeQBXCL.jpg?v=1750593891&width=1445",
+      "price": 1149
+    },
+    {
+      "name": "Sports Shoes",
+      "type": "shoes",
+      "description": "Running shoes",
+      "image": "https://redtape.com/cdn/shop/files/RLO1686_1.jpg?v=1767423417&width=1500",
+      "price": 327
+    },
+    {
+      "name": "Formal Shoes",
+      "type": "shoes",
+      "description": "Office shoes",
+      "image": "https://img.kwcdn.com/product/fancy/87d2111b-8c76-4056-a761-51717325227d.jpg",
+      "price": 359
+    },
+    {
+      "name": "Maxi Dress",
+      "type": "dress",
+      "description": "Long maxi dress",
+      "image": "https://www.vastranand.in/cdn/shop/files/1_bc4cce67-0c92-4034-b34b-644c1cd9ea66.jpg?v=1743074442",
+      "price": 1193
+    },
+    {
+      "name": "Mini Skirt",
+      "type": "skirt",
+      "description": "Short skirt",
+      "image": "https://assets.myntassets.com/h_1440,q_75,w_1080/v1/assets/images/27191514/2024/3/4/f3218ea1-d057-4dc9-90f4-84f46847bed11709549580665-NEUDIS-Flared-Mini-Skater-Skirt-1771709549580253-2.jpg",
+      "price": 540
+    },
+    {
+      "name": "Oversized T-Shirt",
+      "type": "tshirt",
+      "description": "Loose fit t-shirt",
+      "image": "https://images.meesho.com/images/products/377357453/wicin_512.webp?width=512",
+      "price": 1384
+    },
+    {
+      "name": "Slim Fit Shirt",
+      "type": "shirt",
+      "description": "Modern fit shirt",
+      "image": "https://5.imimg.com/data5/ECOM/Default/2022/9/KT/FT/OK/149571855/red-2d915cf9-da0b-42c9-b2a7-5721de8265d6-500x500.jpg",
+      "price": 679
+    },
+    {
+      "name": "High Heels",
+      "type": "heels",
+      "description": "Party heels",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/2/UV/BT/WC/148003554/stiletto-high-heel-shoes-500x500.jpg",
+      "price": 2074
+    },
+    {
+      "name": "Ankle Boots",
+      "type": "boots",
+      "description": "Stylish boots",
+      "image": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/128685s.jpg?im=Resize,width=750",
+      "price": 563
+    },
+    {
+      "name": "Pearl Necklace",
+      "type": "jewellery",
+      "description": "Pearl jewellery",
+      "image": "https://rudradhan.com/cdn/shop/files/buy-pearl-necklace-set-online-real-freshwater-pearls-rudradhan.jpg?v=1757080479&width=2048",
+      "price": 709
+    },
+    {
+      "name": "Diamond Earrings",
+      "type": "jewellery",
+      "description": "Premium earrings",
+      "image": "https://images.unsplash.com/photo-1693212793204-bcea856c75fe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDd8fHxlbnwwfHx8fHw%3D&fm=jpg&q=60&w=3000",
+      "price": 1397
+    },
+    {
+      "name": "Summer Dress Yellow",
+      "type": "dress",
+      "description": "Bright summer dress",
+      "image": "https://mynomad.in/cdn/shop/files/WhatsAppImage2025-03-10at8.43.03PM_1.jpg?v=1741620470&width=900",
+      "price": 457
+    },
+    {
+      "name": "Party Sandals",
+      "type": "shoes",
+      "description": "Stylish party sandals",
+      "image": "https://fausto.in/cdn/shop/files/FST_FSWC-20011_BLACK_1-MODEL_1254758c-876a-41cb-9507-2de7ce66d1c7_400x.jpg?v=1756955672",
+      "price": 492
+    },
+    {
+      "name": "Gladiator Sandals",
+      "type": "shoes",
+      "description": "Trendy gladiator sandals",
+      "image": "https://images-static.nykaa.com/media/catalog/product/2/4/2416549ELMUWn162Grey_1.jpg?tr=w-500",
+      "price": 1856
+    },
+    {
+      "name": "Casual Hoodie",
+      "type": "hoodie",
+      "description": "Daily wear hoodie",
+      "image": "https://images.meesho.com/images/products/643335557/bzb4m_512.webp?width=512",
+      "price": 646
+    },
+    {
+      "name": "Winter Jacket",
+      "type": "jacket",
+      "description": "Warm jacket",
+      "image": "https://img105.savana.com/goods-pic/dc4c584331f74cd9ae689b7e654f25a6_w540_h720_q85.webp",
+      "price": 1868
+    },
+    {
+      "name": "Party Top",
+      "type": "top",
+      "description": "Stylish party top",
+      "image": "https://www.missmosa.in/cdn/shop/files/1688_image_share_d30e10d918bce242e1cfa2f9f6cef79f.jpg?v=1762420831&width=500",
+      "price": 761
+    },
+    {
+      "name": "Formal Skirt",
+      "type": "skirt",
+      "description": "Office skirt",
+      "image": "https://www.berrylush.com/cdn/shop/files/1_d3226e2d-d02b-429f-8f40-f7315ef71755.jpg?v=1770890350&width=1946",
+      "price": 1467
+    },
+    {
+      "name": "Leather Belt",
+      "type": "accessory",
+      "description": "Fashion belt",
+      "image": "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/8/u1Tj91Uh_6fed57bc59f64b18abe657f233b373ac.jpg",
+      "price": 781
+    },
+    {
+      "name": "Sunglasses",
+      "type": "accessory",
+      "description": "Cool sunglasses",
+      "image": "https://img.drz.lazcdn.com/static/bd/p/6cdf78d05a5382d0b661a1b2e82b6326.jpg_720x720q80.jpg",
+      "price": 1842
+    },
+    {
+      "name": "Graphic T-Shirt",
+      "type": "tshirt",
+      "description": "Printed casual t-shirt",
+      "image": "https://www.altart.in/cdn/shop/files/BackModel.png?v=1751894140",
+      "price": 893
+    },
+    {
+      "name": "V-Neck T-Shirt",
+      "type": "tshirt",
+      "description": "Stylish v-neck tee",
+      "image": "https://lovedky.com/cdn/shop/files/mustard-plain-v-neck-oversized-t-shirt-dky-mutdvos-mustard-xs-1228172770.webp?v=1775287988&width=2048",
+      "price": 462
+    },
+    {
+      "name": "Striped Shirt",
+      "type": "shirt",
+      "description": "Striped formal shirt",
+      "image": "https://www.shopstyleash.com/cdn/shop/files/F701520A-DDA2-4C53-97BA-DD2286755E00.jpg?v=1709108247&width=1445",
+      "price": 1780
+    },
+    {
+      "name": "Checked Shirt",
+      "type": "shirt",
+      "description": "Casual check shirt",
+      "image": "https://m.media-amazon.com/images/I/81NI+l9+EaL._AC_UY1100_.jpg",
+      "price": 2197
+    },
+    {
+      "name": "Slim Jeans",
+      "type": "jeans",
+      "description": "Slim fit jeans",
+      "image": "https://offduty.in/cdn/shop/files/17544818433dfad64feea1502cd9dccd605f74d49a.jpg?v=1768285053",
+      "price": 317
+    },
+    {
+      "name": "Baggy Jeans",
+      "type": "jeans",
+      "description": "Loose fit jeans",
+      "image": "https://offduty.in/cdn/shop/files/1_5ffc3985-23e2-47d5-a30a-5b0a6135def1_1_1.png?v=1763719684",
+      "price": 2105
+    },
+    {
+      "name": "Evening Gown",
+      "type": "dress",
+      "description": "Elegant gown",
+      "image": "https://www.dollygown.com/cdn/shop/products/942.jpg?v=1697612792",
+      "price": 2070
+    },
+    {
+      "name": "Bodycon Dress",
+      "type": "dress",
+      "description": "Fitted dress",
+      "image": "https://rocketzone.in/cdn/shop/files/8991B5A5-EC8B-4962-9D4B-3126ABB1F7CF.jpg?v=1751618614",
+      "price": 676
+    },
+    {
+      "name": "A-Line Dress",
+      "type": "dress",
+      "description": "Classic dress style",
+      "image": "https://littleboxindia.com/cdn/shop/files/Summer_Elegant_Solid_Color_Puff_Sleeve_Cinch_Waist_Black_Dress.jpg?v=1774517445",
+      "price": 2185
+    },
+    {
+      "name": "Off Shoulder Top",
+      "type": "top",
+      "description": "Stylish top",
+      "image": "https://littleboxindia.com/cdn/shop/files/Party_Off_Shoulder_Ruched_Flared_Full_Sleeve_Top_in_Green_2.png?v=1769791044",
+      "price": 2059
+    },
+    {
+      "name": "Peplum Top",
+      "type": "top",
+      "description": "Trendy peplum top",
+      "image": "https://babli.in/cdn/shop/files/CreamyPinkPeplumWrapTop_1.jpg?v=1707424391&width=2048",
+      "price": 924
+    },
+    {
+      "name": "Sleeveless Top",
+      "type": "top",
+      "description": "Summer wear",
+      "image": "https://nolabels.in/cdn/shop/files/DSC04096.jpg?v=1718969039&width=1080",
+      "price": 1398
+    },
+    {
+      "name": "Pleated Skirt",
+      "type": "skirt",
+      "description": "Pleated skirt",
+      "image": "https://littleboxindia.com/cdn/shop/products/A-Line_Pleated_High_Waisted_Summer_Skirt_in_Chocolate_Brown_1080x.jpg?v=1769682121",
+      "price": 2023
+    },
+    {
+      "name": "Denim Skirt",
+      "type": "skirt",
+      "description": "Denim skirt",
+      "image": "https://images-cdn.ubuy.co.in/635f0bf972909071562d92d4-tangnade-womens-retro-button-irregular.jpg",
+      "price": 1280
+    },
+    {
+      "name": "Running Sneakers",
+      "type": "shoes",
+      "description": "Comfortable running shoes",
+      "image": "https://www.campusshoes.com/cdn/shop/files/SIREN_MAUVE-PINK_0_85aefd65-cdf7-4894-846f-0b88f3eb6381.jpg?v=1757593424",
+      "price": 1582
+    },
+    {
+      "name": "Canvas Shoes",
+      "type": "shoes",
+      "description": "Casual canvas shoes",
+      "image": "https://theater.xyz/cdn/shop/files/1_7755e87d-5190-459a-becf-ba8aba0fa520.jpg?v=1768547803&width=1646",
+      "price": 1695
+    },
+    {
+      "name": "Loafers",
+      "type": "shoes",
+      "description": "Slip-on shoes",
+      "image": "https://www.cheaney.co.uk/blog/wp-content/uploads/2024/05/Cora2_POS-700x990.jpg",
+      "price": 732
+    },
+    {
+      "name": "Stiletto Heels",
+      "type": "heels",
+      "description": "High heels",
+      "image": "https://sensationfootwear.com/cdn/shop/files/1wv.jpg?v=1761564436",
+      "price": 899
+    },
+    {
+      "name": "Block Heels",
+      "type": "heels",
+      "description": "Comfort heels",
+      "image": "https://i.etsystatic.com/12751469/r/il/1d8a61/4912049424/il_570xN.4912049424_5w7r.jpg",
+      "price": 1748
+    },
+    {
+      "name": "Chelsea Boots",
+      "type": "boots",
+      "description": "Classic boots",
+      "image": "https://assets.myntassets.com/w_360,q_50,,dpr_2,fl_progressive,f_webp/assets/images/26080484/2023/11/27/0e3be959-b2c9-42f7-9b91-0bead477d9be1701096520449Boots7.jpg",
+      "price": 336
+    },
+    {
+      "name": "Knee High Boots",
+      "type": "boots",
+      "description": "Long boots",
+      "image": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/Q49041s.jpg?im=Resize,width=750",
+      "price": 501
+    },
+    {
+      "name": "Shoulder Bag",
+      "type": "bag",
+      "description": "Stylish bag",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240422/duAa/6626929e16fd2c6e6ac62cb6/-473Wx593H-467255863-brown-MODEL.jpg",
+      "price": 1366
+    },
+    {
+      "name": "Backpack",
+      "type": "bag",
+      "description": "Casual backpack",
+      "image": "https://m.media-amazon.com/images/I/61UJlAt8DTL._AC_UY1100_.jpg",
+      "price": 469
+    },
+    {
+      "name": "Choker Necklace",
+      "type": "jewellery",
+      "description": "Trendy choker",
+      "image": "https://images.meesho.com/images/products/296496620/jg5uj_512.webp?width=512",
+      "price": 1935
+    },
+    {
+      "name": "Ballet Flats",
+      "type": "shoes",
+      "description": "Comfortable ballet flats",
+      "image": "https://m.media-amazon.com/images/I/61gkAP+z+EL._AC_UY1000_.jpg",
+      "price": 1887
+    },
+    {
+      "name": "Slip-On Sneakers",
+      "type": "shoes",
+      "description": "Easy slip-on sneakers",
+      "image": "https://5.imimg.com/data5/ECOM/Default/2023/6/317051545/TJ/PL/GQ/9422220/shoes-women-sneakers-breathable-mesh-air-cushion-slip-on-shoes-909-500x500.jpg",
+      "price": 1411
+    },
+    {
+      "name": "Running Shoes Women",
+      "type": "shoes",
+      "description": "Lightweight running shoes",
+      "image": "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/2025/MARCH/22/RL4Wcfa9_464ed22db9ee4f27b7575316bb2a93c2.jpg",
+      "price": 1814
+    },
+    {
+      "name": "Stud Earrings",
+      "type": "jewellery",
+      "description": "Minimal earrings",
+      "image": "https://www.glamaya.com/wp-content/uploads/2025/01/glamaya-8472fac6-436f-4f60-85c0-9e8e6967a481.webp",
+      "price": 501
+    },
+    {
+      "name": "Track Pants",
+      "type": "bottom",
+      "description": "Comfort wear",
+      "image": "https://www.rockit.co.in/cdn/shop/products/2230101384-1-36_2.jpg?v=1705303412",
+      "price": 1199
+    },
+    {
+      "name": "Cargo Pants",
+      "type": "bottom",
+      "description": "Utility pants",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240930/BJ7B/66fac5fe260f9c41e845eca9/-473Wx593H-700518539-black-MODEL.jpg",
+      "price": 783
+    },
+    {
+      "name": "Kurti",
+      "type": "ethnic",
+      "description": "Traditional wear",
+      "image": "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/2025/OCTOBER/27/tu9LEjVA_6ad82e61b1ca4010865e7168dbb9725b.jpg",
+      "price": 1001
+    },
+    {
+      "name": "Saree",
+      "type": "ethnic",
+      "description": "Elegant saree",
+      "image": "https://imagescdn.jaypore.com/img/app/product/3/39591525-11569242.jpg?w=500&auto=format",
+      "price": 721
+    },
+    {
+      "name": "Suit",
+      "type": "ethnic",
+      "description": "Traditional wear",
+      "image": "https://idaho-o.com/cdn/shop/files/1774372514208_a941da6a-c9be-43b8-8584-7981fdd4ab6d.jpg?v=1774441229&width=533",
+      "price": 1339
+    },
+    {
+      "name": "Blazer Black",
+      "type": "blazer",
+      "description": "Formal blazer",
+      "image": "https://img1.theiconic.com.au/mJ8xb__W8HBvwnkgNJz9XYXGOEw=/fit-in/406x512/filters:fill(ffffff):quality(90):format(webp)/https%3A%2F%2Fstatic.theiconic.com.au%2Fp%2Fatmos-here-2516-378898-1.jpg",
+      "price": 1777
+    },
+    {
+      "name": "Winter Coat",
+      "type": "jacket",
+      "description": "Heavy coat",
+      "image": "https://i.pinimg.com/736x/b7/0f/7a/b70f7a61c64e015dc8b75e1ab476f495.jpg",
+      "price": 661
+    },
+    {
+      "name": "Sports Jacket",
+      "type": "jacket",
+      "description": "Active wear",
+      "image": "https://fitkin.in/cdn/shop/files/1_98d56395-4615-44d2-b708-3b058c7988a0.jpg?v=1750417624",
+      "price": 1487
+    },
+    {
+      "name": "Puffer Jacket",
+      "type": "jacket",
+      "description": "Winter wear",
+      "image": "https://m.media-amazon.com/images/I/712rKoyDWLL._AC_SL1500_.jpg",
+      "price": 1800
+    },
+    {
+      "name": "Crop Hoodie",
+      "type": "hoodie",
+      "description": "Trendy hoodie",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20241023/jme9/6718fed6f9b8ef490bd83b44/-473Wx593H-469707813-jetblack-MODEL.jpg",
+      "price": 793
+    },
+    {
+      "name": "Zip Hoodie",
+      "type": "hoodie",
+      "description": "Zip hoodie",
+      "image": "https://m.media-amazon.com/images/I/81GkAEE9upL._AC_UY1100_.jpg",
+      "price": 434
+    },
+    {
+      "name": "Wool Sweater",
+      "type": "sweater",
+      "description": "Warm sweater",
+      "image": "https://www.missmosa.in/cdn/shop/files/9A33CCFB-0CF2-488E-AA04-5323D4C069E2.jpg?v=1749205682&width=500",
+      "price": 435
+    },
+    {
+      "name": "Cardigan",
+      "type": "sweater",
+      "description": "Layering sweater",
+      "image": "https://i.etsystatic.com/28289072/r/il/ee1231/4309804782/il_570xN.4309804782_gktr.jpg",
+      "price": 2135
+    },
+    {
+      "name": "Watch",
+      "type": "accessory",
+      "description": "Digital watch",
+      "image": "https://funkytradition.com/cdn/shop/files/classic-stainless-steel-square-digital-watch-for-men-and-women-funkytradition-990435.jpg?v=1723520263",
+      "price": 1590
+    },
+    {
+      "name": "Analog Watch",
+      "type": "accessory",
+      "description": "Classic watch",
+      "image": "https://scontent.fixc8-2.fna.fbcdn.net/v/t39.30808-6/489425925_1091980216299851_5922047471842822335_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=N0f_frkSg8wQ7kNvwHBcrvX&_nc_oc=AdpqsmvJHHCfm8bAZ1988YCuB5SqEDO8bV5FEBit3BCOh5_mI_q2YBTi1qGdH7osSMucxdvMfXxPe4njVqPhzqdV&_nc_zt=23&_nc_ht=scontent.fixc8-2.fna&_nc_gid=AwmI5rPZMIWhFMFEcD63YA&_nc_ss=7a389&oh=00_Af1YyxsgbnNKhmuAra7cEbU0K5YpOidlRiAQo4iRfffPhg&oe=69DFB2E1",
+      "price": 1526
+    },
+    {
+      "name": "Floral Maxi Dress",
+      "type": "dress",
+      "description": "Flowy floral maxi dress",
+      "image": "https://funkytradition.com/cdn/shop/files/funkytradition-trendy-short-sleeve-floral-printed-faux-georgette-maxi-dress-438268.jpg?v=1723521171",
+      "price": 482
+    },
+    {
+      "name": "Layered Chain",
+      "type": "jewellery",
+      "description": "Trendy layered chain",
+      "image": "https://rosywine.in/cdn/shop/files/ad1_e6dc1fca-e5a5-430a-91ee-20911f36e5bb.webp?v=1683233682&width=2048",
+      "price": 1853
+    },
+    {
+      "name": "Pearl Bracelet",
+      "type": "jewellery",
+      "description": "Classic pearl bracelet",
+      "image": "https://i.etsystatic.com/37562816/r/il/d96b54/6064577632/il_570xN.6064577632_q17k.jpg",
+      "price": 1638
+    },
+    {
+      "name": "Anklet Set Silver",
+      "type": "jewellery",
+      "description": "Pair of silver anklets",
+      "image": "https://unniyarcha.com/cdn/shop/files/Divya_Nambiar_i_dont_like_the_background__base_of_this_image_can_u_make_it_bett_c0e57c18-9ae7-4f0f-a9a7-dd7ccbf899a6.jpg?v=1762499858",
+      "price": 2006
+    },
+    {
+      "name": "Kundan Earrings",
+      "type": "jewellery",
+      "description": "Traditional kundan earrings",
+      "image": "https://priyaasi.com/cdn/shop/files/EAR-PR-52064-c1.jpg?v=1721296424",
+      "price": 769
+    },
+    {
+      "name": "Stone Ring",
+      "type": "jewellery",
+      "description": "Gemstone ring",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2023/12/371343289/MV/ZU/YC/108979402/15.jpg",
+      "price": 1959
+    },
+    {
+      "name": "Bridal Jewellery Set",
+      "type": "jewellery",
+      "description": "Complete bridal set",
+      "image": "https://cdn.eternz.com/thumbnails/products/282128229_4722ec71_thumbnail_1024.jpg",
+      "price": 834
+    },
+    {
+      "name": "Denim Shorts",
+      "type": "bottom",
+      "description": "Casual denim shorts",
+      "image": "https://fashioncloud.in/cdn/shop/files/230731-43.jpg?v=1690792897&width=1445",
+      "price": 1959
+    },
+    {
+      "name": "Oxidised Necklace",
+      "type": "jewellery",
+      "description": "Trendy oxidised necklace",
+      "image": "https://assets0.mirraw.com/images/12134395/image_zoom.jpeg?1703143112",
+      "price": 1441
+    },
+    {
+      "name": "Canvas Backpack",
+      "type": "bag",
+      "description": "Durable canvas backpack",
+      "image": "https://m.media-amazon.com/images/I/51p1uU3iyxL._AC_UY1100_.jpg",
+      "price": 1034
+    },
+    {
+      "name": "Striped Crop Top",
+      "type": "top",
+      "description": "Stylish striped crop top",
+      "image": "https://images.meesho.com/images/products/432896259/0w7q9_512.webp?width=512",
+      "price": 726
+    },
+    {
+      "name": "Jogger Pants",
+      "type": "bottom",
+      "description": "Comfortable joggers",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240521/upX4/664c7cfa16fd2c6e6a15dc8e/-473Wx593H-442590465-brown-MODEL.jpg",
+      "price": 1994
+    },
+    {
+      "name": "Kitten Heels",
+      "type": "heels",
+      "description": "Comfortable low heels",
+      "image": "https://media3.newlookassets.com/i/newlook/902862885/womens/footwear/shoes/yellow-faux-leather-slingback-kitten-heel-court-shoes.jpg?strip=true&qlt=50&w=720",
+      "price": 1084
+    },
+    {
+      "name": "Wedge Heels",
+      "type": "heels",
+      "description": "Stylish wedge heels",
+      "image": "https://www.dipyourtoes.in/cdn/shop/files/DSC5279.jpg?v=1741106068",
+      "price": 1778
+    },
+    {
+      "name": "Transparent Heels",
+      "type": "heels",
+      "description": "Trendy transparent heels",
+      "image": "https://www.gladandglam.com/cdn/shop/products/image_27d67824-7cae-4027-b92a-d30561543b7b.jpg?v=1656105888&width=1445",
+      "price": 1206
+    },
+    {
+      "name": "Ethnic Kurta Set",
+      "type": "ethnic",
+      "description": "Traditional kurta set",
+      "image": "https://www.inddus.in/cdn/shop/products/ethnic-motifs-embroidered-round-neck-long-sleeve-zari-kurta-set-with-dupatta-349397.jpg?v=1752666364",
+      "price": 1258
+    },
+    {
+      "name": "Layered Necklace",
+      "type": "jewellery",
+      "description": "Multi-layer necklace",
+      "image": "https://www.tarinika.in/cdn/shop/files/TNX0282X_2_7993cfa5-391f-48a4-a15d-14a8de03065e.jpg?v=1697434666&width=1780",
+      "price": 498
+    },
+    {
+      "name": "Bucket Bag",
+      "type": "bag",
+      "description": "Trendy bucket bag",
+      "image": "https://miraggiolife.com/cdn/shop/files/chocolate-bucket-bag-333566.jpg?v=1756801763&width=700",
+      "price": 960
+    },
+    {
+      "name": "Flat Sandals",
+      "type": "shoes",
+      "description": "Comfortable flat sandals",
+      "image": "https://images-static.nykaa.com/media/catalog/product/b/c/bc9ef15SNDJhoomerTan_4.jpg?tr=w-500",
+      "price": 2145
+    },
+    {
+      "name": "Pleated Dress",
+      "type": "dress",
+      "description": "Elegant pleated dress",
+      "image": "https://balticborn.com/cdn/shop/files/sandra-pleated-maxi-dress-black-572699.jpg?v=1713317251&width=1445",
+      "price": 851
+    },
+    {
+      "name": "Leather Wallet",
+      "type": "accessory",
+      "description": "Classic wallet",
+      "image": "https://teakwoodleathers.com/cdn/shop/products/4BR1_1080x.jpg?v=1750934258",
+      "price": 226
+    },
+    {
+      "name": "Boho Earrings",
+      "type": "jewellery",
+      "description": "Bohemian style earrings",
+      "image": "https://zuzustrove.com/cdn/shop/files/25-P75.webp?v=1748690837",
+      "price": 1808
+    },
+    {
+      "name": "Sports Cap",
+      "type": "accessory",
+      "description": "Adjustable cap",
+      "image": "https://assets.ajio.com/medias/sys_master/root/hb3/h8c/16233895919646/-473Wx593H-410256360-02a-MODEL.jpg",
+      "price": 2077
+    },
+    {
+      "name": "Tie-Dye T-Shirt",
+      "type": "tshirt",
+      "description": "Colorful tie-dye tee",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2021/7/ZF/KX/CN/32220664/women-s-tie-dye-t-shirt.jpg",
+      "price": 368
+    },
+    {
+      "name": "Embellished Heels",
+      "type": "heels",
+      "description": "Party wear heels",
+      "image": "https://shopgnist.com/cdn/shop/files/GN-T-540-White_1_1080x1080.jpg?v=1714326369",
+      "price": 1511
+    },
+    {
+      "name": "Platform Heels",
+      "type": "heels",
+      "description": "High platform heels",
+      "image": "https://assets.myntassets.com/w_360,q_50,,dpr_2,fl_progressive,f_webp/assets/images/22650820/2023/4/5/b8ad57dd-0ff1-473d-88c1-05c653d5e0381680707074312DenillBeigeHigh-TopPlatformSandals1.jpg",
+      "price": 1885
+    },
+    {
+      "name": "Palazzo Set",
+      "type": "ethnic",
+      "description": "Kurti with palazzo",
+      "image": "https://static3.azafashions.com/tr:w-450/uploads/product_gallery/1710223911968_64413305.jpg",
+      "price": 218
+    },
+    {
+      "name": "Chunky Sneakers",
+      "type": "shoes",
+      "description": "Trendy chunky sneakers",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2018%2F03%2Fchunky-sneakers-trend-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+      "price": 1432
+    },
+    {
+      "name": "Statement Ring",
+      "type": "jewellery",
+      "description": "Bold fashion ring",
+      "image": "https://www.artemerstudio.com/cdn/shop/files/Nebula-OOAK-Teal-Sapphire-Diamond-Statement-Ring-modified_2400x.jpg?v=1685361630",
+      "price": 1417
+    },
+    {
+      "name": "Mini Backpack",
+      "type": "bag",
+      "description": "Compact backpack",
+      "image": "https://rukminim2.flixcart.com/image/480/640/xif0q/backpack/m/3/w/5-mini-backpack-girls-cute-small-backpack-purse-women-travel-original-imah5p7c9jwvak44.jpeg?q=90",
+      "price": 1682
+    },
+    {
+      "name": "Wrap Skirt",
+      "type": "skirt",
+      "description": "Stylish wrap skirt",
+      "image": "https://m.media-amazon.com/images/I/61I-BYAt27L._AC_UY1000_.jpg",
+      "price": 1423
+    },
+    {
+      "name": "Ankle Strap Heels",
+      "type": "heels",
+      "description": "Elegant heels",
+      "image": "https://images.meesho.com/images/products/416011164/zfhdf_512.webp?width=512",
+      "price": 1074
+    },
+    {
+      "name": "Silk Dupatta",
+      "type": "ethnic",
+      "description": "Soft silk dupatta",
+      "image": "https://zameeni.com/cdn/shop/files/HRS09764-scaled.jpg?v=1704931594",
+      "price": 219
+    },
+    {
+      "name": "Casual Polo T-Shirt",
+      "type": "tshirt",
+      "description": "Polo style tee",
+      "image": "https://cdn04.nnnow.com/web-images/large/styles/ZGULW861IGN/1750238993643/1.jpg",
+      "price": 720
+    },
+    {
+      "name": "Hobo Bag",
+      "type": "bag",
+      "description": "Spacious hobo bag",
+      "image": "https://img.tatacliq.com/images/i17//437Wx649H/MP000000022088149_437Wx649H_202404301426341.jpeg",
+      "price": 814
+    },
+    {
+      "name": "Beaded Necklace",
+      "type": "jewellery",
+      "description": "Colorful beads necklace",
+      "image": "https://shop.swarna.com/wp-content/uploads/2023/07/OQ5414_1.jpg",
+      "price": 711
+    },
+    {
+      "name": "Cargo Shorts",
+      "type": "bottom",
+      "description": "Utility cargo shorts",
+      "image": "https://images-cdn.ubuy.co.in/6468fb59a2a8f854d1132309-women-elastic-denim-cargo-casual-shorts.jpg",
+      "price": 2111
+    },
+    {
+      "name": "Printed Saree",
+      "type": "ethnic",
+      "description": "Lightweight printed saree",
+      "image": "https://dirabydimple.com/cdn/shop/files/0C2A0594_1.jpg?crop=center&height=5376&v=1689683761&width=3584",
+      "price": 1818
+    },
+    {
+      "name": "Oversized Hoodie",
+      "type": "hoodie",
+      "description": "Loose fit hoodie",
+      "image": "https://www.bonkerscorner.com/cdn/shop/files/Bonkerscorner_bottlegreen_hoodie_10.jpg?v=1739786647",
+      "price": 412
+    },
+    {
+      "name": "Platform Sneakers",
+      "type": "shoes",
+      "description": "Elevated sole sneakers",
+      "image": "https://tiesta.in/cdn/shop/files/O2A2383_05da0a2e-a0c8-4f66-973e-215fd132c5e1.jpg?v=1772475804",
+      "price": 1051
+    },
+    {
+      "name": "Printed Kurti",
+      "type": "ethnic",
+      "description": "Casual printed kurti",
+      "image": "https://vastarathelabel.com/cdn/shop/files/DSC_5746.jpg?v=1756116628",
+      "price": 1069
+    },
+    {
+      "name": "Straight Kurti",
+      "type": "ethnic",
+      "description": "Formal straight kurti",
+      "image": "https://labelflavia.com/cdn/shop/files/FU61PEACH_1.jpg?v=1757060671&width=1080",
+      "price": 265
+    },
+    {
+      "name": "Rose Gold Bracelet",
+      "type": "jewellery",
+      "description": "Elegant rose gold bracelet",
+      "image": "https://www.mannash.in/cdn/shop/products/MZRPB278D542_1.jpg?v=1642332499",
+      "price": 1411
+    },
+    {
+      "name": "Diamond Choker",
+      "type": "jewellery",
+      "description": "Stylish diamond choker",
+      "image": "https://libasaa.com/cdn/shop/files/14EA-301-1001152.jpg?v=1758021523",
+      "price": 1367
+    },
+    {
+      "name": "Jhumka Earrings",
+      "type": "jewellery",
+      "description": "Traditional jhumka earrings",
+      "image": "https://baublelove.in/cdn/shop/files/DSC09361-_1.jpg?v=1705051849&width=2048",
+      "price": 473
+    },
+    {
+      "name": "Bangle Set",
+      "type": "jewellery",
+      "description": "Colorful bangles set",
+      "image": "https://www.houseofjhumkas.com/cdn/shop/products/image_6434abe6-a799-4ee5-be98-62820d0a2fc5_1024x1024.heic?v=1655032701",
+      "price": 1086
+    },
+    {
+      "name": "Palazzo Pants",
+      "type": "bottom",
+      "description": "Wide leg palazzo",
+      "image": "https://littleboxindia.com/cdn/shop/files/High-Waist_Solid_Color_Casual_Wide-Leg_Pant_In_Black_2.jpg?v=1769595272",
+      "price": 276
+    },
+    {
+      "name": "Hair Band",
+      "type": "accessory",
+      "description": "Stylish hair band",
+      "image": "https://hairdramacompany.com/cdn/shop/files/HD-400.jpg?v=1703141073",
+      "price": 1983
+    },
+    {
+      "name": "Hair Clips",
+      "type": "accessory",
+      "description": "Decorative clips",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2024/12/470861723/OJ/FA/AC/58922703/61hsyeg-tzl-sl1200.jpg",
+      "price": 2094
+    },
+    {
+      "name": "Party Gown",
+      "type": "dress",
+      "description": "Elegant party gown",
+      "image": "https://rangoliindia.wordpress.com/wp-content/uploads/2019/03/ee4405be2f0ced85d73967cda25419d2.jpg?w=825",
+      "price": 1395
+    },
+    {
+      "name": "Casual Maxi Dress",
+      "type": "dress",
+      "description": "Comfortable maxi dress",
+      "image": "https://www.neerus.com/cdn/shop/files/1818MA7118CORAL_1.jpg",
+      "price": 1175
+    },
+    {
+      "name": "Printed T-Shirt",
+      "type": "tshirt",
+      "description": "Graphic printed tee",
+      "image": "https://pronk.in/cdn/shop/files/905_1.jpg?v=1695190755",
+      "price": 1790
+    },
+    {
+      "name": "Long Sleeve Top",
+      "type": "top",
+      "description": "Full sleeve top",
+      "image": "https://cdn.webshopapp.com/shops/247411/files/415749599/shae-basic-long-sleeve-top-white.jpg",
+      "price": 2054
+    },
+    {
+      "name": "Leggings",
+      "type": "bottom",
+      "description": "Stretchable leggings",
+      "image": "https://m.media-amazon.com/images/I/812X+zTJuVL._AC_UY1100_.jpg",
+      "price": 1438
+    },
+    {
+      "name": "Dupatta",
+      "type": "ethnic",
+      "description": "Traditional dupatta",
+      "image": "https://www.fabcouture.in/s/5a6ef16301bd210c588e3577/67d050802aedc4002478bc78/1020092201percent20-2--640x640.jpg",
+      "price": 1578
+    },
+    {
+      "name": "Bridal Necklace Set",
+      "type": "jewellery",
+      "description": "Wedding jewellery set",
+      "image": "https://karatcart.com/cdn/shop/products/11015445_3.jpg?v=1656927479",
+      "price": 1414
+    },
+    {
+      "name": "Kundan Necklace",
+      "type": "jewellery",
+      "description": "Traditional kundan necklace",
+      "image": "https://rimli.in/cdn/shop/files/MagnaKundanNecklacenonsilverrimli01.webp?v=1722516292&width=2336",
+      "price": 589
+    },
+    {
+      "name": "Clutch Party Bag",
+      "type": "bag",
+      "description": "Evening clutch bag",
+      "image": "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/2025/JUNE/9/m131ritb_67de1e1500114b2f9a986f8907af9ff5.jpg",
+      "price": 476
+    },
+    {
+      "name": "Studded Handbag",
+      "type": "bag",
+      "description": "Stylish studded handbag",
+      "image": "https://static3.azafashions.com/tr:w-450/uploads/product_gallery/1762263131674_1.jpg",
+      "price": 226
+    },
+    {
+      "name": "Quilted Bag",
+      "type": "bag",
+      "description": "Premium quilted bag",
+      "image": "https://assets.myntassets.com/w_360,q_50,,dpr_2,fl_progressive,f_webp/assets/images/20997772/2022/12/15/2bf8cb58-750b-4456-bb91-8f11de108dd01671073465908AccessorizeBlackTexturedStructuredShoulderBagwithQuilted1.jpg",
+      "price": 1640
+    },
+    {
+      "name": "Mini Sling Bag",
+      "type": "bag",
+      "description": "Compact sling bag",
+      "image": "https://image.hm.com/assets/hm/4b/58/4b5877453aa7791eb7bd317b34a68b9e9bcf337e.jpg?imwidth=1536",
+      "price": 579
+    },
+    {
+      "name": "Twisted Gold Chain",
+      "type": "jewellery",
+      "description": "Minimal twisted chain necklace",
+      "image": "https://i.etsystatic.com/5204269/r/il/8eb4d3/2997391007/il_1080xN.2997391007_gud7.jpg",
+      "price": 470
+    },
+    {
+      "name": "Square Toe Heels",
+      "type": "heels",
+      "description": "Modern square toe heels",
+      "image": "https://images-static.nykaa.com/media/catalog/product/5/0/5073d3bIRUSHBLKQLTH_1.jpg?tr=w-500",
+      "price": 1281
+    },
+    {
+      "name": "Pastel Beaded Bracelet",
+      "type": "jewellery",
+      "description": "Colorful beaded bracelet",
+      "image": "https://m.media-amazon.com/images/I/71Eo3toPhPL._AC_UY1100_.jpg",
+      "price": 745
+    },
+    {
+      "name": "Velvet Clutch",
+      "type": "bag",
+      "description": "Soft velvet evening clutch",
+      "image": "https://ishhaara.com/cdn/shop/files/ishhaara-pink-stone-embellished-velvet-box-clutch-33823785968006.jpg?v=1746867013",
+      "price": 231
+    },
+    {
+      "name": "Chunky Hoop Earrings",
+      "type": "jewellery",
+      "description": "Bold hoop earrings",
+      "image": "https://images-static.nykaa.com/media/catalog/product/1/a/1a305caBCE499A8079_2.jpg?tr=w-500",
+      "price": 2139
+    },
+    {
+      "name": "Mesh Sneakers",
+      "type": "shoes",
+      "description": "Breathable mesh sneakers",
+      "image": "https://image-cdn.ubuy.com/ladies-shoes-fashion-comfortable-mesh/400_400_100/6685e9d7522a4b35e45a6af2.jpg",
+      "price": 481
+    },
+    {
+      "name": "Crystal Anklet",
+      "type": "jewellery",
+      "description": "Delicate crystal anklet",
+      "image": "https://m.media-amazon.com/images/I/61-rbTY3qqL._AC_UY1100_.jpg",
+      "price": 1198
+    },
+    {
+      "name": "Block Heel Sandals",
+      "type": "heels",
+      "description": "Comfortable block heel sandals",
+      "image": "https://www.lemonpepper.in/cdn/shop/products/116069-BEIGE_4.jpg?v=1770875658&width=1080",
+      "price": 799
+    },
+    {
+      "name": "Mini Tote Bag",
+      "type": "bag",
+      "description": "Compact structured tote",
+      "image": "https://cdn-images.farfetch-contents.com/27/68/64/24/27686424_57911346_600.jpg",
+      "price": 1046
+    },
+    {
+      "name": "Pearl Drop Earrings",
+      "type": "jewellery",
+      "description": "Elegant pearl drops",
+      "image": "https://www.kattam.in/cdn/shop/files/quarts-pearl-drop-earring-288337.jpg?v=1715326418&width=720",
+      "price": 1856
+    },
+    {
+      "name": "Lace-Up Flats",
+      "type": "shoes",
+      "description": "Trendy lace-up flats",
+      "image": "https://m.media-amazon.com/images/I/51bSDg60XoS._AC_UY900_.jpg",
+      "price": 797
+    },
+    {
+      "name": "Layered Anklet Set",
+      "type": "jewellery",
+      "description": "Multi-layer anklet set",
+      "image": "https://www.zavya.co/cdn/shop/products/Zavya01522-a.jpg?v=1760353485",
+      "price": 278
+    },
+    {
+      "name": "Patent Leather Heels",
+      "type": "heels",
+      "description": "Glossy patent heels",
+      "image": "https://www.publicdesire.com/cdn/shop/files/IDOLBLACKPATENT-2.jpg?v=1760384983&width=4096",
+      "price": 369
+    },
+    {
+      "name": "Crossbody Sling Bag",
+      "type": "bag",
+      "description": "Everyday sling bag",
+      "image": "https://thebicyclist.in/cdn/shop/files/The_Bicyclist_Quilted_Crossbody_Shoulder_Sling_Pouch_Bag_in_Tan_Leather_Beetle_1.webp?v=1741754616&width=1445",
+      "price": 621
+    },
+    {
+      "name": "Zircon Stud Earrings",
+      "type": "jewellery",
+      "description": "Sparkling zircon studs",
+      "image": "https://silverplaza.co.in/cdn/shop/files/2133A_ef16aa8b-bf60-48e2-981c-7d14da7894e9.jpg?v=1747808257&width=2048",
+      "price": 1197
+    },
+    {
+      "name": "Platform Sandals",
+      "type": "heels",
+      "description": "Chunky platform sandals",
+      "image": "https://www.dipyourtoes.in/cdn/shop/files/DSC2447-_1-311012.jpg?v=1741106521",
+      "price": 2154
+    },
+    {
+      "name": "Charm Anklet Gold",
+      "type": "jewellery",
+      "description": "Gold charm anklet",
+      "image": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/H92944s.jpg?im=Resize,width=750",
+      "price": 640
+    },
+    {
+      "name": "Woven Handbag",
+      "type": "bag",
+      "description": "Textured woven bag",
+      "image": "https://m.media-amazon.com/images/I/61kpVwj2xxL._AC_UY1000_.jpg",
+      "price": 210
+    },
+    {
+      "name": "Sporty Trainers",
+      "type": "shoes",
+      "description": "Casual sporty trainers",
+      "image": "https://images.meesho.com/images/products/583372904/yczpb_512.webp?width=512",
+      "price": 827
+    },
+    {
+      "name": "Statement Choker Black",
+      "type": "jewellery",
+      "description": "Bold black choker",
+      "image": "https://www.sasitrends.com/cdn/shop/files/sasitrends-bold-oxidised-choker-necklace-with-statement-bead-detailing-ethnic-jewellery-1610C.jpg?v=1774870212&width=1080",
+      "price": 1459
+    },
+    {
+      "name": "Embroidered Jutti",
+      "type": "shoes",
+      "description": "Traditional embroidered jutti",
+      "image": "https://www.needledust.com/cdn/shop/products/DSC0641.jpg?v=1754734600",
+      "price": 1957
+    },
+    {
+      "name": "Stone Work Bangles",
+      "type": "jewellery",
+      "description": "Decorative bangles set",
+      "image": "https://leshya.com/cdn/shop/files/IMG_3789_480x480@2x.jpg?v=1752729370",
+      "price": 1999
+    },
+    {
+      "name": "Transparent Strap Heels",
+      "type": "heels",
+      "description": "Clear strap heels",
+      "image": "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/24795878/2023/9/4/d4923e1d-7d18-4bea-b1db-0161f26e46341693820417030GNISTBeigePUBlockSandals1.jpg",
+      "price": 989
+    },
+    {
+      "name": "Compact Party Clutch",
+      "type": "bag",
+      "description": "Small glitter clutch",
+      "image": "https://www.khussacorner.com/cdn/shop/files/rn-image_picker_lib_temp_b8c6e98c-7efa-42f4-ab42-8c102615e421.jpg?v=1769786572&width=3840",
+      "price": 1391
+    },
+    {
+      "name": "Minimal Ring Set",
+      "type": "jewellery",
+      "description": "Set of minimal rings",
+      "image": "https://jewelsmars.com/cdn/shop/files/WhatsAppImage2024-01-18at6.09.19PM_1.jpg?v=1705582644&width=1946",
+      "price": 1923
+    },
+    {
+      "name": "Slip-On Loafers",
+      "type": "shoes",
+      "description": "Comfort slip-on loafers",
+      "image": "https://img.kwcdn.com/product/open/2a455e4ab61a45a584bfbcc31399bee2-goods.jpeg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp",
+      "price": 1482
+    },
+    {
+      "name": "Geometric Earrings",
+      "type": "jewellery",
+      "description": "Modern geometric earrings",
+      "image": "https://zohrajewelry.com/cdn/shop/files/Zohra_Z17_3_1500x_crop_bottom.jpg?v=1748679432",
+      "price": 2104
+    },
+    {
+      "name": "Metallic Heels",
+      "type": "heels",
+      "description": "Shiny metallic heels",
+      "image": "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/2025/NOVEMBER/11/h7F4uxiH_b579e6b8fac5496bb24027bd28ac9334.jpg",
+      "price": 1763
+    },
+    {
+      "name": "Chain Strap Bag",
+      "type": "bag",
+      "description": "Stylish chain strap bag",
+      "image": "https://assets.digitalcontent.marksandspencer.app/image/upload/w_600,h_780,q_auto,f_auto,e_sharpen/SD_01_T01_1157Z_K0_X_EC_4",
+      "price": 1296
+    },
+    {
+      "name": "Toe Loop Sandals",
+      "type": "shoes",
+      "description": "Casual toe loop sandals",
+      "image": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/H37980s.jpg?im=Resize,width=750",
+      "price": 254
+    }
   ]
 }
