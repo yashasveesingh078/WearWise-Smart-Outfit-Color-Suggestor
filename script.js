@@ -3,10 +3,6 @@ const searchInput = document.getElementById("search");
 const filter = document.getElementById("filter");
 const sort = document.getElementById("sort");
 const themeBtn = document.getElementById("theme-toggle");
-
-const modal = document.getElementById("modal");
-const closeBtn = document.getElementById("close");
-
 let data = [];
 
 fetch("data.json")
@@ -70,26 +66,10 @@ searchInput.addEventListener("input", applyFilters);
 filter.addEventListener("change", applyFilters);
 sort.addEventListener("change", applyFilters);
 
-function viewItem(i) {
-  const item = data[i];
-
-  document.getElementById("modal-img").src = item.image;
-  document.getElementById("modal-title").textContent = item.name;
-  document.getElementById("modal-desc").textContent = item.description;
-  document.getElementById("modal-price").textContent = "₹" + item.price;
-
-  modal.style.display = "block";
-}
-
-closeBtn.onclick = () => modal.style.display = "none";
-
-window.onclick = (e) => {
-  if (e.target === modal) modal.style.display = "none";
-};
-
 themeBtn.addEventListener("click", () => {
   document.body.classList.toggle("dark");
 });
+
 
   // async function getData(){
   //   // let myData = await fetch("./data.json");
